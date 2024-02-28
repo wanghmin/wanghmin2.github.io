@@ -67,7 +67,7 @@ sections:
         exclude_featured: false
     design:
       columns: '1'
-      view: showcase   
+      view: masonry   
   - block: contact
     id: contact
     content:

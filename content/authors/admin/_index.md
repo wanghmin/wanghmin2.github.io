@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huamin Wang 王华民
+title: Huamin Wang
 
 # Full name (for SEO)
 first_name: Huamin

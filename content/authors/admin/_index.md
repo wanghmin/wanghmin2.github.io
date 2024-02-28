@@ -2,9 +2,6 @@
 # Display name
 title: 王华民
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Huamin
 last_name: Wang
@@ -17,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Chief Science Officer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Style3D Research
+    url: https://www.linctex.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Physics-Based Animation
+  - Generative AI models
+  - Numerical Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Computer Science
+      institution: Georgia Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Computer Science
+      institution: Stanford University
+      year: 2004
+    - course: BSc in Computer Science
+      institution: Zhejiang University
+      year: 2002
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

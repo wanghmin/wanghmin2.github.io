@@ -65,5 +65,10 @@ social:
 highlight_name: true
 ---
 
-Huamin Wang is the ok.
+Huamin Wang is the Chief Science Officer at Style3D and he leads Style3D's global research team. 
+
+His research interests revolve around physics-based simulation, with a specific focus on fast and realistic simulation of digital clothing by GPUs and GenAI.
+
+Before joining Style3D, he was a tenured associate professor in the CSE department at the Ohio State University (2011 – 2021), and a postdoctoral researcher at UC Berkeley (2009 – 2011).
+
 {style="text-align: justify;"}

@@ -53,13 +53,13 @@ social:
     link: '/#contact'  
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?user=iHpqfoQAAAAJ&hl=en&oi=sra)
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/wanghmin
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/huamin-wang-8583a77a/)
+    link: https://www.linkedin.com/in/huamin-wang-8583a77a/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

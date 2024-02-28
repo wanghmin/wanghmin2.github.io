@@ -22,6 +22,7 @@ abstract: So far extending light field rendering to dynamic scenes has been triv
   interpolate those software-synchronized images in the spatial domain to synthesize
   the final view. Our experimental results show that our approach is robust and capable
   of maintaining photo-realistic results.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - space-time light field
 - image-based rendering
@@ -30,7 +31,6 @@ links:
 - name: URL
   url: https://doi.org/10.1145/1053427.1053448
 ---
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
 url_pdf: ''

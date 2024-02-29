@@ -67,7 +67,8 @@ sections:
         exclude_featured: false
     design:
       columns: '1'
-      view: community/my_citation   
+      view: community/my_citation
+    count: 10
   - block: contact
     id: contact
     content:

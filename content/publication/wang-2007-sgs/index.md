@@ -26,12 +26,15 @@ summary: We propose a new framework for solving General Shallow Wave Equations (
   in order to efficiently simulate water flows on solid surfaces under shallow wave
   assumptions. 
 links:
-- name: YouTube
-  url: https://www.youtube.com/watch?v=VUdtEHA5IOM
-- name: bilibili
-  url: https://www.bilibili.com/video/BV1K3411H7Xw/?share_source=copy_web
 - name: DOI
   url: https://dl.acm.org/doi/10.5555/1272690.1272721 
 url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/view
   
 ---
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUdtEHA5IOM?si=aSeXvzp1m4Mis06a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=425272507&bvid=BV1K3411H7Xw&cid=563643438&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

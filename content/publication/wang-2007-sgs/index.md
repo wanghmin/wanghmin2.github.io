@@ -22,7 +22,9 @@ abstract: 'We propose a new framework for solving General Shallow Wave Equations
   effects including: shallow waves, water drops, rivulets, capillary events and fluid/floating
   rigid body coupling. Because the system is fast, we can also achieve real-time water
   drop control and shape design.'
-
+summary: We propose a new framework for solving General Shallow Wave Equations (GSWE)
+  in order to efficiently simulate water flows on solid surfaces under shallow wave
+  assumptions. 
 links:
 - name: YouTube
   url: https://www.youtube.com/watch?v=VUdtEHA5IOM

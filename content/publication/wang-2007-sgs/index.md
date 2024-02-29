@@ -22,4 +22,14 @@ abstract: 'We propose a new framework for solving General Shallow Wave Equations
   effects including: shallow waves, water drops, rivulets, capillary events and fluid/floating
   rigid body coupling. Because the system is fast, we can also achieve real-time water
   drop control and shape design.'
+
+links:
+- name: YouTube
+  url: https://www.youtube.com/watch?v=VUdtEHA5IOM
+- name: bilibili
+  url: https://www.bilibili.com/video/BV1K3411H7Xw/?share_source=copy_web
+- name: DOI
+  url: https://dl.acm.org/doi/10.5555/1272690.1272721 
+url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/view
+  
 ---

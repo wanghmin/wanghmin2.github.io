@@ -29,7 +29,7 @@ tags:
 - epipolar constraints
 links:
 - name: YouTube
-- url: https://www.youtube.com/watch?v=kw9BW2_Ajyg
+  url: https://www.youtube.com/watch?v=kw9BW2_Ajyg
 - name: URL
   url: https://doi.org/10.1145/1053427.1053448
 url_pdf: http://arxiv.org/pdf/1512.04133v1

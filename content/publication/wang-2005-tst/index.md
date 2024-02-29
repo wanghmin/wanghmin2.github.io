@@ -23,6 +23,9 @@ abstract: So far extending light field rendering to dynamic scenes has been triv
   interpolate those software-synchronized images in the spatial domain to synthesize
   the final view. Our experimental results show that our approach is robust and capable
   of maintaining photo-realistic results.
+summary: We propose a novel framework, space-time light field rendering, which allows continuous
+  exploration of a dynamic scene in both spatial and temporal domain with unsynchronized
+  input video sequences.
 tags:
 - space-time light field
 - image-based rendering

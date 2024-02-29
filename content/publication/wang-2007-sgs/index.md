@@ -1,7 +1,7 @@
 ---
 title: Solving general shallow wave equations on surfaces
 authors:
-- Huamin Wang
+- admin
 - Gavin Miller
 - Greg Turk
 date: '2007-01-01'

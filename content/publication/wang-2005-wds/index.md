@@ -39,7 +39,7 @@ links:
   width: 10
 - name: YouTube
   url: https://www.youtube.com/watch?v=flgjJn7xC8k
-- name: bilibili
+- name: biliassbili
   url: https://www.bilibili.com/video/BV1V44y1P7xA/?share_source=copy_web
 url_pdf: ''
 url_video: 'https://drive.google.com/file/d/1fEmLZGxufXDK9s8zN_J_xtNsHyXgP7gw/view'

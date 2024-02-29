@@ -1,7 +1,7 @@
 ---
 title: Towards space-time light field rendering
 authors:
-- Huamin Wang
+- admin
 - Ruigang Yang
 date: '2005-01-01'
 publishDate: '2024-02-28T12:02:47.901045Z'

@@ -57,6 +57,7 @@ sections:
   - block: collection
     content:
       title: Publications
+      count: 0  
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -68,7 +69,6 @@ sections:
     design:
       columns: '1'
       view: community/my_citation
-    count: 10
   - block: contact
     id: contact
     content:

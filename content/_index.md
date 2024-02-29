@@ -50,13 +50,13 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: card
   - block: collection
     content:
-      title: Publicationss
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

@@ -1,7 +1,7 @@
 ---
 title: Water drops on surfaces
 authors:
-- Huamin Wang
+- admin
 - Peter J. Mucha
 - Greg Turk
 date: '2005-07-01'

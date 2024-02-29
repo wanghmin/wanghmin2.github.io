@@ -24,6 +24,9 @@ abstract: We present a physically-based method to enforce contact angles at the 
   is capable of realistically simulating several small-scale liquid phenomena such
   as beading and flattened drops, stretched and separating drops, suspended drops
   on curved surfaces, and capillary action.
+summary: We present a physically-based method to enforce contact angles at the intersection
+  of fluid free surfaces and solid objects, allowing us to simulate a variety of small-scale
+  fluid phenomena including water drops on surfaces. 
 tags:
 - contact line/angle
 - liquid-solid interaction
@@ -31,6 +34,13 @@ tags:
 - virtual surface
 - water drop
 links:
-- name: URL
+- name: DOI
   url: https://doi.org/10.1145/1073204.1073284
+- name: YouTube
+  url: https://www.youtube.com/watch?v=flgjJn7xC8k
+- name: bilibili
+  url: https://www.bilibili.com/video/BV1V44y1P7xA/?share_source=copy_web
+url_pdf: ''
+url_video: 'https://drive.google.com/file/d/1fEmLZGxufXDK9s8zN_J_xtNsHyXgP7gw/view'
+  
 ---

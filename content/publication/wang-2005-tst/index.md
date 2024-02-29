@@ -9,7 +9,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 2005 Symposium on Interactive 3D Graphics and Games
   (I3D)*'
-doi: 10.1145/1053427.1053448
+#doi: 10.1145/1053427.1053448
 abstract: So far extending light field rendering to dynamic scenes has been trivially
   treated as the rendering of static light fields stacked in time. This type of approaches
   requires input video sequences in strict synchronization and allows only discrete
@@ -32,7 +32,7 @@ links:
   url: https://www.youtube.com/watch?v=kw9BW2_Ajyg
 - name: bilibili
   url: https://www.bilibili.com/video/BV1BS4y1m7fv/?share_source=copy_web
-- name: URL
+- name: DOI
   url: https://doi.org/10.1145/1053427.1053448
 url_pdf: ''
 url_video: 'https://drive.google.com/file/d/1HCtVEofZ5WmgPgJw84PgCy9CrnP7gxKR/view'

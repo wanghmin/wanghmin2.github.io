@@ -25,7 +25,18 @@ abstract: In this paper, we propose a novel framework called space-time light fi
   from unsynchronized videos with or without time stamps show that our approach is
   capable of maintaining photorealistic quality from a variety of real scenes.
 tags:
-- Layout;Robustness;Motion control;Lighting control;Control systems;Visualization;Control
-  system synthesis;Rendering (computer graphics);Image generation;Image registration;Image-based
-  rendering;space-time light field;epipolar constraint;image morphing
+- layout
+- robustness
+- motion control
+- Lighting control
+- Control systems
+- Visualization
+- Control system synthesis
+- Rendering (computer graphics)
+- Image generation
+- Image registration
+- Image-based rendering
+- space-time light field
+- epipolar constraint
+- image morphing
 ---

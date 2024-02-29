@@ -8,7 +8,7 @@ date: '2007-07-01'
 publishDate: '2024-02-29T05:26:53.841281Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Visualization and Computer Graphics*'
+publication: '*IEEE Transactions on Visualization and Computer Graphics, 13*(4)'
 doi: 10.1109/TVCG.2007.1019
 abstract: In this paper, we propose a novel framework called space-time light field
   rendering, which allows continuous exploration of a dynamic scene in both space

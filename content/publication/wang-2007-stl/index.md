@@ -1,7 +1,7 @@
 ---
-title: Space-Time Light Field Rendering
+title: Space-time light field rendering
 authors:
-- Huamin Wang
+- admin
 - Mingxuan Sun
 - Ruigang Yang
 date: '2007-07-01'

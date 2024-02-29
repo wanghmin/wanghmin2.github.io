@@ -36,9 +36,10 @@ tags:
 links:
 - name: DOI
   url: https://doi.org/10.1145/1073204.1073284
-  width: 10
+  width: 100
 - name: YouTube
   url: https://www.youtube.com/watch?v=flgjJn7xC8k
+  width: 100
 - name: bilibi
   url: https://www.bilibili.com/video/BV1V44y1P7xA/?share_source=copy_web
 url_pdf: ''

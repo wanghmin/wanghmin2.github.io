@@ -31,6 +31,11 @@
 <div class="media stream-item view-compact">
   
   <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    </div>
+    
     
    {{ if eq $item.Type "event" }}
    <div class="article-metadata">
@@ -51,10 +56,6 @@
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-    </div>
-    
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">

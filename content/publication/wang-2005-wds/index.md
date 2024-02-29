@@ -34,13 +34,15 @@ tags:
 - virtual surface
 - water drop
 links:
-- name: YouTube
-  url: https://www.youtube.com/watch?v=flgjJn7xC8k
-- name: bilibi
-  url: https://www.bilibili.com/video/BV1V44y1P7xA/?share_source=copy_web
 - name: DOI
   url: https://doi.org/10.1145/1073204.1073284  
-url_pdf: ''
 url_video: 'https://drive.google.com/file/d/1fEmLZGxufXDK9s8zN_J_xtNsHyXgP7gw/view'
   
 ---
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flgjJn7xC8k?si=AKwZlxSVHFKwfVDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=980311290&bvid=BV1V44y1P7xA&cid=563614417&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+</p>

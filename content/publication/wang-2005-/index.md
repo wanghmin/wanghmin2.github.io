@@ -15,26 +15,16 @@ abstract: So far extending light field rendering to dynamic scenes has been triv
   exploration in the temporal domain determined by the capture rate. In this paper
   we propose a novel framework, space-time light field rendering, which allows continuous
   exploration of a dynamic scene in both spatial and temporal domain with unsynchronized
-  input video sequences.In order to synthesize novel views from any viewpoint at any
+  input video sequences. In order to synthesize novel views from any viewpoint at any
   time instant, we develop a two-stage rendering algorithm. We first interpolate in
   the temporal domain to generate globally synchronized images using a robust spatial-temporal
   image registration algorithm followed by edge-preserving image morphing. We then
   interpolate those software-synchronized images in the spatial domain to synthesize
   the final view. Our experimental results show that our approach is robust and capable
   of maintaining photo-realistic results.
-summary: So far extending light field rendering to dynamic scenes has been trivially
-  treated as the rendering of static light fields stacked in time. This type of approaches
-  requires input video sequences in strict synchronization and allows only discrete
-  exploration in the temporal domain determined by the capture rate. In this paper
-  we propose a novel framework, space-time light field rendering, which allows continuous
+summary: We propose a novel framework, space-time light field rendering, which allows continuous
   exploration of a dynamic scene in both spatial and temporal domain with unsynchronized
-  input video sequences.In order to synthesize novel views from any viewpoint at any
-  time instant, we develop a two-stage rendering algorithm. We first interpolate in
-  the temporal domain to generate globally synchronized images using a robust spatial-temporal
-  image registration algorithm followed by edge-preserving image morphing. We then
-  interpolate those software-synchronized images in the spatial domain to synthesize
-  the final view. Our experimental results show that our approach is robust and capable
-  of maintaining photo-realistic results.
+  input video sequences.
 tags:
 - space-time light field
 - image-based rendering
@@ -45,9 +35,6 @@ links:
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: 'https://youtube.com'
 ---

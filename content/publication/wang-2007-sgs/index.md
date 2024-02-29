@@ -6,6 +6,9 @@ authors:
 - Greg Turk
 date: '2007-01-01'
 publishDate: '2024-02-29T05:26:53.834489Z'
+doi: 10.5555/1272690.1272721
+
+
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer
@@ -26,8 +29,6 @@ summary: We propose a new framework for solving General Shallow Wave Equations (
   in order to efficiently simulate water flows on solid surfaces under shallow wave
   assumptions. 
 links:
-- name: DOI
-  url: https://dl.acm.org/doi/10.5555/1272690.1272721 
 url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/view
   
 ---

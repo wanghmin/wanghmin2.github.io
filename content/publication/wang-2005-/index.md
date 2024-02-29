@@ -29,6 +29,10 @@ tags:
 - space-time light field
 - image-based rendering
 - epipolar constraints
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 links:
 - name: URL
   url: https://doi.org/10.1145/1053427.1053448

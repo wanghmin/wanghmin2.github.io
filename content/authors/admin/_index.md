@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Chief Science Officer
+role: Chief Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.linctex.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include physics-based animation, generative AI models, numerical analysis and optimization.
 
 # Interests to show in About widget
 interests:
   - Physics-Based Animation
   - Generative AI models
-  - Numerical Optimization
+  - Numerical Analysis and Optimization
 
 # Education to show in About widget
 education:
@@ -65,8 +65,8 @@ social:
 highlight_name: true
 ---
 
-Huamin Wang is the Chief Science Officer at [Style3D](https://www.linctex.com)
- and he is leading Style3D's global research team. 
+Huamin Wang is the chief scientist at [Style3D](https://www.linctex.com)
+ and he leads Style3D's global research team. 
 His research interests revolve around physics-based animation, with a specific focus on high-performance and high-fidelity animation of digital human by GPU and generative AI.
 
 Before joining Style3D, he was a tenured associate professor in the [CSE department](https://cse.osu.edu/) at [the Ohio State University](https://www.osu.edu) (2011 – 2021), and a postdoctoral researcher at [UC Berkeley](https://www.berkeley.edu/) (2009 – 2011).

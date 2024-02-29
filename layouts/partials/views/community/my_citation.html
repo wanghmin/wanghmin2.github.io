@@ -29,6 +29,18 @@
 {{ end }}
 
 <div class="media stream-item view-compact">
+  <div class="ml-3">
+    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+    {{ with $resource }}
+      {{ $image := .Resize "600x" }}
+      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            alt="{{ $item.Title }}" loading="lazy">
+      </a>
+    {{end}}
+  </div>
+  
   <div class="media-body">
     
     <div class="section-subheading article-title mb-0 mt-0">
@@ -68,16 +80,5 @@
     </div>
     {{ end }}
 
-  </div>
-  <div class="ml-3">
-    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-    {{ with $resource }}
-      {{ $image := .Resize "600x" }}
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            alt="{{ $item.Title }}" loading="lazy">
-      </a>
-    {{end}}
-  </div>
+  </div>  
 </div>

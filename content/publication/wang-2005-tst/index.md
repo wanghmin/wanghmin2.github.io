@@ -35,8 +35,8 @@ links:
 #  url: https://www.youtube.com/watch?v=kw9BW2_Ajyg
 #- name: bilibili
 #  url: https://www.bilibili.com/video/BV1BS4y1m7fv/?share_source=copy_web
-#- name: DOI
-#  url: https://doi.org/10.1145/1053427.1053448
+- name: DOI
+  url: https://doi.org/10.1145/1053427.1053448
 url_pdf: ''
 url_video: 'https://drive.google.com/file/d/1HCtVEofZ5WmgPgJw84PgCy9CrnP7gxKR/view'
   

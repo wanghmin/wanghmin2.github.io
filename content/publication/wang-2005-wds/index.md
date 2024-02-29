@@ -9,7 +9,7 @@ publishDate: '2024-02-29T05:26:53.826566Z'
 publication_types:
 - article-journal
 publication: '*ACM Trans. Graph. (SIGGRAPH), 24*(3)'
-doi: 10.1145/1073204.1073284
+#doi: 10.1145/1073204.1073284
 abstract: We present a physically-based method to enforce contact angles at the intersection
   of fluid free surfaces and solid objects, allowing us to simulate a variety of small-scale
   fluid phenomena including water drops on surfaces. The heart of this technique is

@@ -67,7 +67,7 @@ sections:
         exclude_featured: false
     design:
       columns: '1'
-      view: myy_citation   
+      view: community/myy_citation   
   - block: contact
     id: contact
     content:

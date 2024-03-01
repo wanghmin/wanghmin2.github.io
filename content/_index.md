@@ -85,7 +85,7 @@ sections:
         postcode: '310000'
         country: China
         country_code: CN
-      directions: Enter Building A of Sanshen International and take the elevators to Floor 3
+      directions: Enter Building A of Sanshen International and take an elevator to Floor 3
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '30.2935'

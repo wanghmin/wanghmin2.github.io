@@ -89,7 +89,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '30.2935'
-        longitude: '120.0717'      
+        longitude: '120.0713'      
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

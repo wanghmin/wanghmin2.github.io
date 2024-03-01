@@ -34,7 +34,4 @@ tags:
 - texture mapping
 - texture synthesis
 - varying texture
-links:
-- name: URL
-  url: https://doi.org/10.1111/j.1467-8659.2009.01423.x
 ---

@@ -79,20 +79,17 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 3rd Floor, Building A, Sanshen International Center, 99 Shuanglong Street
+        city: Hangzhou
+        region: Zhejiang
+        postcode: '310000'
+        country: China
+        country_code: CN
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '30.291274'
-        longitude: '120.075696'      
+        latitude: '30.291469'
+        longitude: '120.076192'      
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -106,3 +103,5 @@ sections:
     design:
       columns: '2'
 ---
+
+

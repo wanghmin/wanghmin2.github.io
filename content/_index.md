@@ -88,8 +88,8 @@ sections:
       directions: Enter Building A of Sanshen International and take the elevators to Floor 3
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '30.292331'
-        longitude: '120.075742'      
+        latitude: '30.2935'
+        longitude: '120.0787'      
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

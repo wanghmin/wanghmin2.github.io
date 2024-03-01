@@ -33,9 +33,9 @@ tags:
 - physically based animation
 - virtual surface
 - water drop
+featured: false
 links:
 url_video: 'https://drive.google.com/file/d/1fEmLZGxufXDK9s8zN_J_xtNsHyXgP7gw/view'
-  
 ---
 
 <p align="center">

@@ -24,6 +24,9 @@ abstract: We propose a novel approach to reconstruct complete 3D deformable mode
   fix missing holes, and smooth alignment errors. Our experiment shows that this approach
   is able to reconstruct visually plausible 3D surface deformation results with a
   single camera.
+summary: We propose a novel approach to reconstruct complete 3D deformable models
+  over time by a single depth camera, provided that most parts of the models are observed
+  by the camera at least once.
 tags:
 - deformable models
 - cameras

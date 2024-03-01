@@ -1,7 +1,7 @@
 ---
 title: Example-based wrinkle synthesis for clothing animation
 authors:
-- Huamin Wang
+- admin
 - Florian Hecht
 - Ravi Ramamoorthi
 - James F. O'Brien
@@ -42,6 +42,7 @@ tags:
 - cloth simulation
 links:
 url_video: 'https://drive.google.com/file/d/1Fd528cv0lE7yYmarMD5molvjC134vKjc/view'
+url_dataset: 'dataset.zip'
 ---
 
 <p align="center">

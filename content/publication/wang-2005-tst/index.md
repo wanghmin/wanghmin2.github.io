@@ -30,10 +30,11 @@ tags:
 - space-time light field
 - image-based rendering
 - epipolar constraints
+featured: false
 links:
 url_video: 'https://drive.google.com/file/d/1HCtVEofZ5WmgPgJw84PgCy9CrnP7gxKR/view'
-
 ---
+
 <p align="center">
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/kw9BW2_Ajyg?si=oyqGN2lYldHI5zej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>

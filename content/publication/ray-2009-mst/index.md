@@ -1,5 +1,5 @@
 ---
-title: Material Space Texturing
+title: Material space texturing
 authors:
 - Nicolas Ray
 - Bruno Lévy
@@ -27,6 +27,9 @@ abstract: Many objects have patterns that vary in appearance at different surfac
   the scale and orientation of the texture. We support these operations by using a
   global surface parameterization that is closely related to quad re-meshing. Re-parameterization
   is performed on-the-fly whenever the user's constraints are modified.
+summary: Many objects have patterns that vary in appearance at different surface
+  locations. We say that these are differences in materials, and we present a material-space
+  approach for interactively designing such textures.
 tags:
 - texture mapping
 - texture synthesis

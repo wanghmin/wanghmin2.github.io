@@ -31,7 +31,6 @@ tags:
 - space-time model completion
 links:
 url_video: 'https://drive.google.com/file/d/1UWQwAbH--N0qlKgL_jcGLmNFvnUnbDrF/view'
-
 ---
 
 <p align="center">

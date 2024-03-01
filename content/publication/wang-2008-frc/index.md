@@ -1,7 +1,7 @@
 ---
 title: Factoring repeated content within and among images
 authors:
-- Huamin Wang
+- admin
 - Yonatan Wexler
 - Eyal Ofek
 - Hugues Hoppe

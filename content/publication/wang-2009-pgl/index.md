@@ -30,6 +30,14 @@ tags:
 - physically-based fluid simulation
 - space-time model completion
 links:
-- name: URL
-  url: https://doi.org/10.1145/1531326.1531396
+url_video: 'https://drive.google.com/file/d/1UWQwAbH--N0qlKgL_jcGLmNFvnUnbDrF/view'
+
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/QeVESnBEHYE?si=DYLSfQBuj7qm7lYt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=682842325&bvid=BV17S4y1K7NZ&cid=563637318&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>
+

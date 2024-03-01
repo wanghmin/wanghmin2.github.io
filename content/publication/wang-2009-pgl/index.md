@@ -26,8 +26,8 @@ abstract: We present an image-based reconstruction framework to model real water
   times or viewpoints. We demonstrated the effectiveness of our framework with a number
   of real scenes, all captured using only a single pair of cameras.
 summary: We present an image-based reconstruction framework to model real water scenes
-  captured by stereoscopic video. In contrast to image-based modeling techniques
-  that rely on user interaction to obtain high-quality 3D models, we apply physically-based constraints to refine the initial model.
+  captured by stereoscopic video. In contrast to image-based modeling techniques,
+   we apply physically-based constraints to refine the initial model.
 tags:
 - image-based reconstruction
 - physically-based fluid simulation

@@ -1,7 +1,7 @@
 ---
 title: Physically guided liquid surface modeling from videos
 authors:
-- Huamin Wang
+- admin
 - Miao Liao
 - Qing Zhang
 - Ruigang Yang

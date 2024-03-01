@@ -25,6 +25,10 @@ abstract: In this paper we describe a fast strain-limiting method that allows st
   with other constraint-based techniques, our isotropic multi-resolution strain-limiting
   method is straightforward to implement, efficient to use, and applicable to a wide
   range of shell and solid materials.
+summary: In this paper we describe a fast strain-limiting method that allows stiff,
+  incompliant materials to be simulated efficiently. This method acts on the strain tensors
+  in a coordinate-invariant fashion allowing isotropic behavior.
+
 tags:
 - strain limiting
 - multi-resolution

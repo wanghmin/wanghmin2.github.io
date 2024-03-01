@@ -42,7 +42,7 @@ tags:
 - cloth simulation
 links:
 url_video: 'https://drive.google.com/file/d/1Fd528cv0lE7yYmarMD5molvjC134vKjc/view'
-url_dataset: 'dataset.zip'
+url_dataset: 'publication/wang-2010-ebw/dataset.zip'
 ---
 
 <p align="center">

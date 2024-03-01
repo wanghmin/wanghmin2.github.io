@@ -32,6 +32,7 @@ tags:
 - image-based reconstruction
 - physically-based fluid simulation
 - space-time model completion
+featured: false
 links:
 url_video: 'https://drive.google.com/file/d/1UWQwAbH--N0qlKgL_jcGLmNFvnUnbDrF/view'
 ---

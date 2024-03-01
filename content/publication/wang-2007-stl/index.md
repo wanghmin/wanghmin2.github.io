@@ -39,4 +39,5 @@ tags:
 - space-time light field
 - epipolar constraint
 - image morphing
+featured: false
 ---

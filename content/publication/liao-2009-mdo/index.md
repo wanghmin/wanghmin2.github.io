@@ -3,7 +3,7 @@ title: Modeling deformable objects from a single depth camera
 authors:
 - Miao Liao
 - Qing Zhang
-- Huamin Wang
+- admin
 - Ruigang Yang
 - Minglun Gong
 date: '2009-09-29'

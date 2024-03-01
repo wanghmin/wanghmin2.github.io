@@ -6,7 +6,7 @@ authors:
 - Huamin Wang
 - Ruigang Yang
 - Minglun Gong
-date: '2009-01-01'
+date: '2009-09-29'
 publishDate: '2024-03-01T04:06:04.839299Z'
 publication_types:
 - paper-conference

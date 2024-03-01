@@ -34,8 +34,8 @@ url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/vie
 ---
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VUdtEHA5IOM?si=aSeXvzp1m4Mis06a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/VUdtEHA5IOM?si=aSeXvzp1m4Mis06a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 <p align="center">
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=425272507&bvid=BV1K3411H7Xw&cid=563643438&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=425272507&bvid=BV1K3411H7Xw&cid=563643438&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>

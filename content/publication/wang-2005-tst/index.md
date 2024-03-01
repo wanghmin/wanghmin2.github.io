@@ -35,7 +35,7 @@ url_video: 'https://drive.google.com/file/d/1HCtVEofZ5WmgPgJw84PgCy9CrnP7gxKR/vi
 
 ---
 <p align="center">
-<iframe style='height: 100%; width: 0px;' src="https://www.youtube.com/embed/kw9BW2_Ajyg?si=oyqGN2lYldHI5zej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/kw9BW2_Ajyg?si=oyqGN2lYldHI5zej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 <p align="center">
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=725315595&bvid=BV1BS4y1m7fv&cid=563614348&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

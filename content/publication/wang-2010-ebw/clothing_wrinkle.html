@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Wrinkle Data</title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+
+
+
+<table border=0>
+<colgroup cellhalign="center" align="center">
+
+<tr><h1>Example-Based Wrinkle Synthesis for Clothing Animation</h1>
+<h2>
+Clothing Wrinkle Dataset </h2>
+ </tr>
+</table>
+
+<p>
+
+</p>
+<h2>Description</h2>
+<p>
+<table border=0>
+<tr>
+<td width=800>
+This is the clothing wrinkle dataset used in the paper <i>Example-Based Wrinkle Synthesis for Clothing Animation</i>. This dataset contains wrinkle meshes used for the male characeter example,
+including a long sleeve shirt and long pants. If you are interested in the female characater example, please contact the author for more information. The wrinkle meshes are made for a specific character, provided
+in Poser 4.0. For characters with different body sizes, you may need to make certain adjustment to ensure that the clothing fits with the new body.<br>
+</td>
+</tr>
+</table>
+
+<hr style="width: 100%; height: 2px;">
+</p>
+
+
+
+<table border=0>
+<colgroup cellhalign="center" align="center">
+<tr>
+<td><h2>Links</h2>
+<a href="wrinkle_data.zip">Data File</a> (139MB, in Zip)<br>
+<a href="long_sleeve.mesh">long_sleeve.mesh</a><br>
+<a href="pants.mesh">pants.mesh</a><br>
+<a href="rest.bvh">Sample BVH</a>
+</td>
+</tr>
+</table>
+<br>
+
+<hr style="width: 100%; height: 2px;">
+<h2>How to</h2>
+
+<table>
+<tr>
+<td width=800>
+The two meshes contain the long sleeve mesh and the pants mesh respectively. They are defined as simple binary streams of the vertex number, the vertices, the triangle number, and the triangle indices.
+Here is a sample code that can read them:
+<br> <br>
+std::fstream input; <br>
+input.open(filename, std::ios::in|std::ios::binary); <br>
+if(!input.is_open()) {printf("ERROR: Cannot open the mesh file %s.\n", filename); return false;}<br>
+Read_Binary(input, vertex_number); <br>
+vertices =new float[vertex_number*3]; <br>
+Read_Binaries(input, vertices, vertex_number*3); <br>
+Read_Binary(input, triangle_number); <br>
+triangles	=new int[triangle_number*3]; <br>
+Read_Binaries(input, triangles, triangle_number*3); <br>
+input.close(); <br>
+return true; <br>
+<br><br>
+
+The .sim file contained in the dataset only has the vertex stream. To read it, simply ignore the vertex number, the triangle number, and the triangle indices, and call:
+<br><br>
+Read_Binaries(input, vertices, vertex_number*3);
+<br><br>
+
+The name of each .sim file typically has four parts. The first part indicates the joint name, the second, third, and fourth parts are joint angle values. 
+For example,
+<b>lshldr_30_90_down_0090</b> means this file contains the wrinkle mesh when the left shoulder joint has three angle values: 30, 90, and 90 (moving down). 
+For a joint with only one Degree-of-Freedom, the name only contains two parts, like this left shin joint: <b>lshin_bend_0075</b>.
+
+Joint angles are ordered according to the BVH file. Please check it for more information.
+
+</td>
+
+</tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+<br><br><br>
+</body>
+</html>

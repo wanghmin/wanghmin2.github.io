@@ -28,7 +28,6 @@ abstract: In this paper we describe a fast strain-limiting method that allows st
 summary: In this paper we describe a fast strain-limiting method that allows stiff,
   incompliant materials to be simulated efficiently. This method acts on the strain tensors
   in a coordinate-invariant fashion allowing isotropic behavior.
-
 tags:
 - strain limiting
 - multi-resolution

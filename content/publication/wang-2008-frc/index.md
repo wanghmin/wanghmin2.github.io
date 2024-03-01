@@ -24,11 +24,14 @@ abstract: We reduce transmission bandwidth and memory space for images by factor
   images, particularly in the context of image-based rendering. Eliminating redundant
   content lets us include textures that are several times as large in the same memory
   space.
+summary: We reduce transmission bandwidth and memory space for images by factoring
+  their repeated content. Eliminating redundant content lets us include textures
+  that are several times as large in the same memory space.
+
 tags:
 - image compression
 - image epitomes
 - progressive images
 links:
-- name: URL
-  url: https://doi.org/10.1145/1360612.1360613
+url_slides: http://research.microsoft.com/~hoppe/factorimage.pptx
 ---

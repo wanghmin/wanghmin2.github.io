@@ -27,7 +27,9 @@ abstract: 'We propose a new framework for solving General Shallow Wave Equations
   drop control and shape design.'
 summary: We propose a new framework for solving General Shallow Wave Equations (GSWE)
   in order to efficiently simulate water flows on solid surfaces under shallow wave
-  assumptions. 
+  assumptions.
+tags:
+- physically based modeling
 featured: false
 links:
 url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/view  

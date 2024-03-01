@@ -27,7 +27,7 @@ abstract: Cloth often has complicated nonlinear, anisotropic elastic behavior du
   to create natural and realistic clothing wrinkles and shapes, for a range of different
   materials.
 summary: We propose a piecewise linear elastic
-  model that is a good approximation to nonlinear, anisotropic stretching and bending
+  model that approximates nonlinear, anisotropic stretching and bending
   behaviors of various materials. We develop new measurement techniques for studying
   the elastic deformations for both stretching and bending in real cloth samples.
 tags:

@@ -79,17 +79,17 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       address:
-        street: 3rd Floor, Building A, Sanshen International Center, 99 Shuanglong Street
+        street: 99 Shuanglong Street
         city: Hangzhou
         region: Zhejiang
         postcode: '310000'
         country: China
         country_code: CN
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Building A of Sanshen International and take the elevators to Floor 3
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '30.291469'
-        longitude: '120.076192'      
+        latitude: '30.291231'
+        longitude: '120.075742'      
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

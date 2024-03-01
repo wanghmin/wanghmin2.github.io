@@ -34,4 +34,5 @@ tags:
 - texture mapping
 - texture synthesis
 - varying texture
+featured: false
 ---

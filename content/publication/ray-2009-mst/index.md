@@ -3,7 +3,7 @@ title: Material space texturing
 authors:
 - Nicolas Ray
 - Bruno Lévy
-- Huamin Wang
+- admin
 - Greg Turk
 - Bruno Vallet
 date: '2009-09-01'

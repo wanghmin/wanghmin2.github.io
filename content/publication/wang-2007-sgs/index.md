@@ -28,9 +28,9 @@ abstract: 'We propose a new framework for solving General Shallow Wave Equations
 summary: We propose a new framework for solving General Shallow Wave Equations (GSWE)
   in order to efficiently simulate water flows on solid surfaces under shallow wave
   assumptions. 
+featured: false
 links:
-url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/view
-  
+url_video: https://drive.google.com/file/d/1kah8avEOFV_nfDRq50Ya8nv8fysxfi8k/view  
 ---
 
 <p align="center">

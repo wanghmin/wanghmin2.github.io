@@ -9,7 +9,7 @@ date: '2010-07-01'
 publishDate: '2024-03-01T07:51:40.552052Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 29*(4)'
 doi: 10.1145/1778765.1778844
 abstract: This paper describes a method for animating the appearance of clothing,
   such as pants or a shirt, that fits closely to a figure's body. Compared to flowing
@@ -31,6 +31,9 @@ abstract: This paper describes a method for animating the appearance of clothing
   the nearest joints, allowing each joint to be processed independently. During synthesis,
   mesh interpolation is used to consider the influence of multiple joints, and combined
   with a coarse simulation to produce the final results at interactive rates.
+summary: Based on the observation that the wrinkles in close-fitting
+  clothing behave in a predominantly kinematic fashion, we have developed an example-based
+  wrinkle synthesis technique.
 tags:
 - wrinkles
 - precomputed animation
@@ -38,6 +41,12 @@ tags:
 - clothing animation
 - cloth simulation
 links:
-- name: URL
-  url: https://doi.org/10.1145/1778765.1778844
+url_video: 'https://drive.google.com/file/d/1Fd528cv0lE7yYmarMD5molvjC134vKjc/view'
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/sPn5kCEemgE?si=gt3BgZh2xjnoHz_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=640251727&bvid=BV1yY4y1p7Tv&cid=563637270&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

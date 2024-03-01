@@ -38,4 +38,5 @@ tags:
 - fuses
 - image sequences
 - focusing
+featured: false
 ---

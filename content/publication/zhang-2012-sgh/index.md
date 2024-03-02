@@ -3,7 +3,7 @@ title: Simulation Guided Hair Dynamics Modeling from Video
 authors:
 - Qing Zhang
 - Jing Tong
-- Huamin Wang
+- admin
 - Zhigeng Pan
 - Ruigang Yang
 date: '2012-09-01'

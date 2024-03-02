@@ -3,7 +3,7 @@ title: Towards space-time light field rendering
 authors:
 - admin
 - Ruigang Yang
-date: '2005-01-01'
+date: '2005-04-01'
 publishDate: '2024-02-29T05:26:53.816447Z'
 publication_types:
 - paper-conference

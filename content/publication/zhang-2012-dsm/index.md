@@ -2,7 +2,7 @@
 title: A Deformable Surface Model for Real-Time Water Drop Animation
 authors:
 - Yizhong Zhang
-- Huamin Wang
+- admin
 - Shuai Wang
 - Yiying Tong
 - Kun Zhou
@@ -10,7 +10,7 @@ date: '2012-08-01'
 publishDate: '2024-03-01T07:51:40.577512Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Visualization and Computer Graphics*'
+publication: '*IEEE Transactions on Visualization and Computer Graphics, 18*(8)'
 doi: 10.1109/TVCG.2011.141
 abstract: A water drop behaves differently from a large water body because of its
   strong viscosity and surface tension under the small scale. Surface tension causes
@@ -29,6 +29,10 @@ abstract: A water drop behaves differently from a large water body because of it
   collide, pinch-off of water jets, and droplets flowing over solid materials. The
   whole system performs orders-of-magnitude faster than existing simulation approaches
   that generate comparable water drop effects.
+summary: We propose a fast deformable surface model to realistically
+  animate water drops and their flowing behaviors on solid surfaces. Our system
+  simulates water drop motions in a Lagrangian fashion, by reducing 3D fluid dynamics
+  to a deformable surface model. 
 tags:
 - solids
 - surface tension

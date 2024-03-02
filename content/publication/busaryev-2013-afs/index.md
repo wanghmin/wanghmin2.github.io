@@ -3,12 +3,12 @@ title: Adaptive fracture simulation of multi-layered thin plates
 authors:
 - Oleksiy Busaryev
 - Tamal K. Dey
-- Huamin Wang
+- admin
 date: '2013-07-01'
 publishDate: '2024-03-01T07:51:40.606767Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 32*(4)'
 doi: 10.1145/2461912.2461920
 abstract: The fractures of thin plates often exhibit complex physical behaviors in
   the real world. In particular, fractures caused by tearing are different from fractures
@@ -20,6 +20,10 @@ abstract: The fractures of thin plates often exhibit complex physical behaviors 
   multi-layered model to simulate complex fracture behaviors across thin layers. Our
   experiment shows that the system can efficiently and realistically simulate the
   fractures of multi-layered thin plates.
+summary: 'We study how to make thin-plate fracture
+  animations more realistic by three novel techniques: a stress relaxation
+  method; a fracture-aware remeshing scheme based on constrained Delaunay
+  triangulation; and a multi-layered model to simulate complex fractures across thin layers. '
 tags:
 - thin plates
 - layers
@@ -27,6 +31,12 @@ tags:
 - adaptive remeshing
 - FEM
 links:
-- name: URL
-  url: https://doi.org/10.1145/2461912.2461920
+url_video: https://drive.google.com/file/d/1mjkGJ1DzcVsn20AL37tqQcEQWaoh1Zzg/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/jlbdQHXDPRY?si=R5ybL8eBmgz4uodq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=682809133&bvid=BV1TS4y1K7o9&cid=563599374&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

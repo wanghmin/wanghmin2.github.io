@@ -10,7 +10,7 @@ date: '2012-09-01'
 publishDate: '2024-03-01T07:51:40.584962Z'
 publication_types:
 - article-journal
-publication: '*Comput. Graph. Forum (Pacific Graphics), 31*(7)'
+publication: '*Computer Graphics Forum (Pacific Graphics), 31*(7)'
 doi: 10.1111/j.1467-8659.2012.03192.x
 abstract: In this paper we present a hybrid approach to reconstruct hair dynamics
   from multi-view video sequences, captured under uncontrolled lighting conditions.

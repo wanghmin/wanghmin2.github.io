@@ -1,5 +1,5 @@
 ---
-title: A Deformable Surface Model for Real-Time Water Drop Animation
+title: A deformable surface model for real-time water drop animation
 authors:
 - Yizhong Zhang
 - admin

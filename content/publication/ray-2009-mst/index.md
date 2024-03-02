@@ -10,7 +10,7 @@ date: '2009-09-01'
 publishDate: '2024-03-01T04:06:04.825547Z'
 publication_types:
 - article-journal
-publication: '*Comput. Graph. Forum, 28*(6)'
+publication: '*Computer Graphics Forum, 28*(6)'
 doi: 10.1111/j.1467-8659.2009.01423.x
 abstract: Many objects have patterns that vary in appearance at different surface
   locations. We say that these are differences in materials, and we present a material-space

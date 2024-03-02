@@ -34,9 +34,9 @@ abstract: Blue noise sampling is an important component in many graphics applica
   how to incorporate our modulation into various sample analysis and synthesis methods,
   and demonstrate applications in object distribution, photon density estimation,
   and point cloud sub-sampling.
-summary: Inspired by bilateral filtering, we propose a bilateral blue noise sampling strategy.
+summary: 'Inspired by bilateral filtering, we propose a bilateral blue noise sampling strategy.
 Our key idea is a general formulation to modulate the traditional sample distance measures,
-with a similarity measure that considers arbitrary per sample attributes.
+with a similarity measure that considers arbitrary per sample attributes.'
 tags:
 - bilateral measure
 - blue noise

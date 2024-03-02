@@ -30,8 +30,8 @@ abstract: A water drop behaves differently from a large water body because of it
   whole system performs orders-of-magnitude faster than existing simulation approaches
   that generate comparable water drop effects.
 summary: We propose a fast deformable surface model to realistically
-  animate water drops and their flowing behaviors on solid surfaces. Our system
-  simulates water drop motions in a Lagrangian fashion, by reducing 3D fluid dynamics
+  animate water drops and their flows on solid surfaces. Our system
+  simulates drop motions in a Lagrangian fashion, by reducing 3D fluid dynamics
   to a deformable surface model. 
 tags:
 - solids

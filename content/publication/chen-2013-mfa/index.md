@@ -23,7 +23,9 @@ abstract: 'Real-world cloth exhibits complex behaviors when it contacts deformab
   the efficiency and accuracy of our system in simulating objects with a three-layer
   structure (i.e., a cloth layer, an air layer, and an inner body layer), such as
   pillows, comforters, down jackets, and stuffed toys.'
-summary: Real-world cloth exhibits complex behaviors when it contacts deformable bodies. In this paper, we study how to improve the simulation of cloth-body interactions from three perspectives: collision, friction, and air pressure.
+summary: 'Real-world cloth exhibits complex behaviors when it contacts deformable bodies.
+In this paper, we study how to improve the simulation of cloth-body interactions from
+three perspectives: collision, friction, and air pressure.'
 tags:
 - air permeability
 - cloth simulation

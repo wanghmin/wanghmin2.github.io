@@ -35,6 +35,7 @@ tags:
 - material measurement
 links:
 url_video: https://drive.google.com/file/d/1OfGnu8oAk50dB-tA5s6rSpWMFYuYW37t/view
+url_source: publication/chen-2013-mfa/Chen-2013-MFA_supp.pdf
 ---
 
 <p align="center">

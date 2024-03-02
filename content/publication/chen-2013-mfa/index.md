@@ -3,12 +3,12 @@ title: Modeling friction and air effects between cloth and deformable bodies
 authors:
 - Zhili Chen
 - Renguo Feng
-- Huamin Wang
+- admin
 date: '2013-07-01'
 publishDate: '2024-03-01T07:51:40.613554Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 32*(4)'
 doi: 10.1145/2461912.2461941
 abstract: 'Real-world cloth exhibits complex behaviors when it contacts deformable
   bodies. In this paper, we study how to improve the simulation of cloth-body interactions
@@ -23,6 +23,9 @@ abstract: 'Real-world cloth exhibits complex behaviors when it contacts deformab
   the efficiency and accuracy of our system in simulating objects with a three-layer
   structure (i.e., a cloth layer, an air layer, and an inner body layer), such as
   pillows, comforters, down jackets, and stuffed toys.'
+summary: Real-world cloth exhibits complex behaviors when it contacts deformable
+  bodies. In this paper, we study how to improve the simulation of cloth-body interactions
+  from three perspectives: collision, friction, and air pressure.
 tags:
 - air permeability
 - cloth simulation
@@ -31,6 +34,12 @@ tags:
 - data-driven
 - material measurement
 links:
-- name: URL
-  url: https://doi.org/10.1145/2461912.2461941
+url_video: https://drive.google.com/file/d/1OfGnu8oAk50dB-tA5s6rSpWMFYuYW37t/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/p5uhnSw8_Xw?si=xA00OdQPajfOrFS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=637791949&bvid=BV1fY4y1q7uM&cid=563610030&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

@@ -1,5 +1,5 @@
 ---
-title: Towards space-time light field rendering
+title: Towards Space-Time Light Field Rendering
 authors:
 - admin
 - Ruigang Yang

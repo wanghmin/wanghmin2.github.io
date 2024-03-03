@@ -1,13 +1,13 @@
 ---
 title: Descent Methods for Elastic Body Simulation on the GPU
 authors:
-- Huamin Wang
+- admin
 - Yin Yang
 date: '2016-12-01'
 publishDate: '2024-03-03T02:42:26.945756Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH Asia)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH Asia), 35* (6)'
 doi: 10.1145/2980179.2980236
 abstract: We show that many existing elastic body simulation approaches can be interpreted
   as descent methods, under a nonlinear optimization framework derived from implicit
@@ -25,6 +25,9 @@ abstract: We show that many existing elastic body simulation approaches can be i
   differentiable and their Hessian matrices can be quickly evaluated. For additional
   speedups, the method can also serve as a complement to other techniques, such as
   multi-grid.
+summary: We show many elastic body simulation approaches can be interpreted
+  as descent methods. Based on this concept, we propose a new gradient
+  descent method using Jacobi preconditioning and Chebyshev acceleration.
 tags:
 - the Chebyshev method
 - nonlinear optimization
@@ -32,6 +35,12 @@ tags:
 - hyperelasticity
 - GPU acceleration
 links:
-- name: URL
-  url: https://doi.org/10.1145/2980179.2980236
+url_video: https://drive.google.com/file/d/1p9Q_yDC_gaS5IDCGNB9GOzQDFogomnmM/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/qAF4EUeJTI4?si=3fF47hSjTTLLBoyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=255255479&bvid=BV1tY411J7w9&cid=563649251&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

@@ -1,5 +1,5 @@
 ---
-title: Bilateral blue noise sampling
+title: Bilateral Blue Noise Sampling
 authors:
 - Jiating Chen
 - Xiaoyin Ge

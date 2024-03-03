@@ -1,5 +1,5 @@
 ---
-title: Space-time light field rendering
+title: Space-Time Light Field Rendering
 authors:
 - admin
 - Mingxuan Sun

@@ -1,5 +1,5 @@
 ---
-title: Compressing repeated content within large-scale remote sensing images
+title: Compressing Repeated Content within Large-Scale Remote Sensing Images
 authors:
 - Wei Hua
 - Rui Wang

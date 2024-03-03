@@ -1,5 +1,5 @@
 ---
-title: Solving general shallow wave equations on surfaces
+title: Solving General Shallow Wave Equations on Surfaces
 authors:
 - admin
 - Gavin Miller

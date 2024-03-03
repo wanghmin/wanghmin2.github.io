@@ -3,7 +3,7 @@ title: Robust Simulation of Sparsely Sampled Thin Features in SPH-Based Free Sur
   Flows
 authors:
 - Xiaowei He
-- Huamin Wang
+- admin
 - Fengjun Zhang
 - Hongan Wang
 - Guoping Wang
@@ -12,7 +12,7 @@ date: '2015-12-01'
 publishDate: '2024-03-03T02:42:26.856480Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 34*(1)'
 doi: 10.1145/2682630
 abstract: 'Smoothed particle hydrodynamics (SPH) is efficient, mass preserving, and
   flexible in handling topological changes. However, sparsely sampled thin features
@@ -29,6 +29,9 @@ abstract: 'Smoothed particle hydrodynamics (SPH) is efficient, mass preserving, 
   Our result demonstrates the effectiveness of our algorithms in handling a variety
   of sparsely sampled thin liquid features, including thin sheets, thin jets, and
   water splashes.'
+summary: 'In this article, we address the simulation of thin features in SPH-based
+free surface flows from two perspectives: the robustness of surface forces and
+the numerical instability of thin features.'
 tags:
 - thin feature
 - surface tension
@@ -36,7 +39,4 @@ tags:
 - liquid animation
 - diffuse interface model
 - Fluid dynamics
-links:
-- name: URL
-  url: https://doi.org/10.1145/2682630
 ---

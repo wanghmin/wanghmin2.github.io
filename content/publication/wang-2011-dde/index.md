@@ -1,5 +1,5 @@
 ---
-title: 'Data-driven elastic models for cloth: modeling and measurement'
+title: 'Data-Driven Elastic Models for Cloth: Modeling and Measurement'
 authors:
 - admin
 - James F. O'Brien

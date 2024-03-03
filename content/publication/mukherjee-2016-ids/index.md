@@ -1,9 +1,9 @@
 ---
 title: Incremental Deformation Subspace Reconstruction
 authors:
-- R. Mukherjee
-- X. Wu
-- H. Wang
+- Rajaditya Mukherjee
+- Xiaofeng Wu
+- admin
 date: '2016-01-01'
 publishDate: '2024-03-03T02:42:26.938077Z'
 publication_types:
@@ -25,9 +25,18 @@ abstract: Abstract Recalculating the subspace basis of a deformable body is a ma
   problems. Our experiment shows that the updated subspace basis still allows a simulator
   to generate visual plausible deformation effects. The whole system is efficient
   and it is compatible with other subspace construction approaches.
+summary: In the paper, we show that the deformation subspace of a modified
+  body can be efficiently obtained from the subspace of its original version, if mesh
+  changes are small.
 tags:
 - 'I.3.7 Computer Graphics: Three-Dimensional Graphics and Realism—Animation'
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13014
+url_video: https://drive.google.com/file/d/16XlWmrVgMCZdGiIn5c8xetjOo8QW1YaQ/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/SuzV_rpSOfY?si=-yiT0V0UEau0iNdH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=552833148&bvid=BV1ui4y1X77c&cid=563614344&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

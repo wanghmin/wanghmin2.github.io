@@ -12,7 +12,7 @@ publication_types:
 - article-journal
 publication: '*Computer Graphics Forum (Pacific Graphics, best paper award)*'
 doi: https://doi.org/10.1111/cgf.13554
-abstract: Abstract Accurate high-resolution simulation of cloth is a highly desired
+abstract: Accurate high-resolution simulation of cloth is a highly desired
   computational tool in graphics applications. As single-resolution simulation starts
   to reach the limit of computational power, we believe the future of cloth simulation
   is in multi-resolution simulation. In this paper, we explore nonlinearity, adaptive

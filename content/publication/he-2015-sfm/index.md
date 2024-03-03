@@ -28,7 +28,7 @@ abstract: The simulation of fluid mixing under the Eulerian framework often suff
   or external energy input. This convection scheme is compatible with many advection
   methods and it has a small computational overhead.
 summary: The simulation of fluid mixing under the Eulerian framework often suffers
-  from numerical dissipation issues. In this paper, we present a mass-preserving convection
+  from numerical dissipation issues. We present a mass-preserving convection
   scheme that offers direct control on the shape of the interface.
 tags:
 - phase field
@@ -37,6 +37,12 @@ tags:
 - fluid control
 - diffuse interface
 links:
-- name: URL
-  url: https://doi.org/10.1145/2786784.2786791
+url_video: https://drive.google.com/file/d/1CULkaNejX074YWX79dqyFfdtsqk4sYAd/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/7E9CEdoQtlk?si=UciVgaaNAIekuV5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=212812626&bvid=BV1aa41147ui&cid=563614409&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

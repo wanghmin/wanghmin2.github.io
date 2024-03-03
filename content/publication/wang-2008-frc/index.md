@@ -1,5 +1,5 @@
 ---
-title: Factoring repeated content within and among images
+title: Factoring Repeated Content within and among Images
 authors:
 - admin
 - Yonatan Wexler

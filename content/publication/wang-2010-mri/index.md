@@ -1,5 +1,5 @@
 ---
-title: Multi-resolution isotropic strain limiting
+title: Multi-Resolution Isotropic Strain Limiting
 authors:
 - admin
 - James O'Brien

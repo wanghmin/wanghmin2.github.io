@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: '*Computer Graphics Forum (Pacific Graphics), 35*(7)'
 doi: https://doi.org/10.1111/cgf.13014
-abstract: Abstract Recalculating the subspace basis of a deformable body is a mandatory
+abstract: Recalculating the subspace basis of a deformable body is a mandatory
   procedure for subspace simulation, after the body gets modified by interactive applications.
   However, using linear modal analysis to calculate the basis from scratch is known
   to be computationally expensive. In the paper, we show that the subspace of a modified

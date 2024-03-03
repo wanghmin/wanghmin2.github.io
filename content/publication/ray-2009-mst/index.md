@@ -1,5 +1,5 @@
 ---
-title: Material space texturing
+title: Material Space Texturing
 authors:
 - Nicolas Ray
 - Bruno Lévy

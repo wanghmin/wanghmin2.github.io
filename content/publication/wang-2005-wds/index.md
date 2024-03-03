@@ -1,5 +1,5 @@
 ---
-title: Water drops on surfaces
+title: Water Drops on Surfaces
 authors:
 - admin
 - Peter J. Mucha

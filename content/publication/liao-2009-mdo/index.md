@@ -1,5 +1,5 @@
 ---
-title: Modeling deformable objects from a single depth camera
+title: Modeling Deformable Objects from a Single Depth Camera
 authors:
 - Miao Liao
 - Qing Zhang

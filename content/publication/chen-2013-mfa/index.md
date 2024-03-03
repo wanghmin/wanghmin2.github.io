@@ -1,5 +1,5 @@
 ---
-title: Modeling friction and air effects between cloth and deformable bodies
+title: Modeling Friction and Air Effects between Cloth and Deformable Bodies
 authors:
 - Zhili Chen
 - Renguo Feng

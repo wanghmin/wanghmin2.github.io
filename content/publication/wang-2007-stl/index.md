@@ -24,6 +24,9 @@ abstract: In this paper, we propose a novel framework called space-time light fi
   estimate subframe temporal offsets among input video sequences. Experimental results
   from unsynchronized videos with or without time stamps show that our approach is
   capable of maintaining photorealistic quality from a variety of real scenes.
+summary: In this paper, we propose a novel framework called space-time light field
+  rendering, which allows continuous exploration of a dynamic scene in both space
+  and time.
 tags:
 - layout
 - robustness

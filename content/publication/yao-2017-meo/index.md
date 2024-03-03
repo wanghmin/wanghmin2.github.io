@@ -4,14 +4,14 @@ authors:
 - Miaojun Yao
 - Zhili Chen
 - Weiwei Xu
-- Huamin Wang
+- admin
 date: '2017-10-01'
 publishDate: '2024-03-03T02:42:26.959655Z'
 publication_types:
 - article-journal
-publication: '*Computer Graphics Forum (Pacific Graphics)*'
+publication: '*Computer Graphics Forum (Pacific Graphics), 36*(7)'
 doi: https://doi.org/10.1111/cgf.13267
-abstract: 'Abstract While the 3D printing technology has become increasingly popular
+abstract: 'While the 3D printing technology has become increasingly popular
   in recent years, it suffers from two critical limitations: expensive printing material
   and long printing time. An effective solution is to hollow the 3D model into a shell
   and print the shell by parts. Unfortunately, making shell pieces tightly assembled
@@ -29,10 +29,19 @@ abstract: 'Abstract While the 3D printing technology has become increasingly pop
   introduce new gaps on the outer surface, which would become noticeable inevitably
   due to limited printer precision. Our experiment shows that the assembled object
   is strong against separation, yet still easy to disassemble.'
+summary: 'W present a computational
+  system to design an interlocking structure of a partitioned shell model, which uses
+  only male and female connectors to lock shell pieces in the assembled configuration.'
 tags:
 - 'I.3.5 Computer Graphics: Computational Geometry and Object Modeling—Physically
   based modeling'
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13267
+url_video: https://drive.google.com/file/d/1U06-wRIB3ZM265RGcAIz6yYxHw7ifLf-/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/9USOZJUXOxg?si=XjOQjQ192k31dwn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=340325222&bvid=BV1z94y1o75c&cid=563664240&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

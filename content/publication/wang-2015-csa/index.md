@@ -22,8 +22,9 @@ abstract: In this paper, we study the use of the Chebyshev semi-iterative approa
   shows position-based dynamics can be accelerated by the Chebyshev approach as well,
   although the effect is less obvious for tetrahedral meshes. The whole approach is
   simple, fast, effective, GPU-friendly, and has a small memory cost.
-summary: In this paper, we study the use of the Chebyshev semi-iterative approach
-  in projective and position-based dynamics.
+summary: We study the use of the Chebyshev semi-iterative approach
+  in projective and position-based dynamics. Our experiment shows the whole approach is
+  simple, fast, effective, GPU-friendly, and has a small memory cost.
 tags:
 - Chebyshev semi-iterative method
 - Jacobi method

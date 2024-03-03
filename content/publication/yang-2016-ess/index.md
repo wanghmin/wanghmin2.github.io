@@ -3,12 +3,12 @@ title: Enriching SPH Simulation by Approximate Capillary Waves
 authors:
 - Sheng Yang
 - Xiaowei He
-- Huamin Wang
+- admin
 - Sheng Li
 - Guoping Wang
 - Enhua Wu
 - Kun Zhou
-date: '2016-01-01'
+date: '2016-07-11'
 publishDate: '2024-03-03T02:42:26.931255Z'
 publication_types:
 - paper-conference
@@ -25,4 +25,7 @@ abstract: Capillary waves are difficult to simulate due to their fast traveling 
   projection-based incompressible SPH. Our experiment shows that the developed algorithm
   can produce realistic capillary wave effects on both thin liquid features and large
   liquid bodies. Its computational overhead is also small.
+summary: Capillary waves are difficult to simulate due to their fast traveling speed
+  and high frequency. In this paper, we propose to approximate capillary wave effects
+  by surface compression waves under the SPH framework.
 ---

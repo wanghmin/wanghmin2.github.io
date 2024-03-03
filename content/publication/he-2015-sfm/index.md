@@ -2,7 +2,7 @@
 title: Simulation of Fluid Mixing with Interface Control
 authors:
 - Xiaowei He
-- Huamin Wang
+- admin
 - Fengjun Zhang
 - Hongan Wang
 - Guoping Wang
@@ -27,6 +27,9 @@ abstract: The simulation of fluid mixing under the Eulerian framework often suff
   scheme to control interface changes between two fluids, due to temperature, pressure,
   or external energy input. This convection scheme is compatible with many advection
   methods and it has a small computational overhead.
+summary: The simulation of fluid mixing under the Eulerian framework often suffers
+  from numerical dissipation issues. In this paper, we present a mass-preserving convection
+  scheme that offers direct control on the shape of the interface.
 tags:
 - phase field
 - miscible/immiscible fluids

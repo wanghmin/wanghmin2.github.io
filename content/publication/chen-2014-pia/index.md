@@ -4,12 +4,12 @@ authors:
 - Zhili Chen
 - Miaojun Yao
 - Renguo Feng
-- Huamin Wang
+- admin
 date: '2014-07-01'
 publishDate: '2024-03-03T02:42:26.864311Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 33*(4)'
 doi: 10.1145/2601097.2601115
 abstract: Physically based animation of detailed fracture effects is not only computationally
   expensive, but also difficult to implement due to numerical instability. In this
@@ -21,6 +21,9 @@ abstract: Physically based animation of detailed fracture effects is not only co
   the exterior surface. Our experiment shows that this approach is simple, fast, and
   friendly to user design and control. It can generate realistic fracture animations
   within a few seconds.
+summary: 'Physically based animation of detailed fracture effects is not only
+  expensive, but also difficult to implement. We propose a physics-inspired approach to
+  enrich low-resolution fracture animation by realistic details.'
 tags:
 - material strength
 - fracture animation
@@ -29,6 +32,12 @@ tags:
 - animation control
 - adaptive refinement
 links:
-- name: URL
-  url: https://doi.org/10.1145/2601097.2601115
+url_video: https://drive.google.com/file/d/1w2BEdO9xwgmoSs3yk1TvtWCT9bz6KrWj/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/PDSH-CSlvRI?si=5Z3fGzqAJoFjLCRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=810264288&bvid=BV1P34y1t7ck&cid=563609962&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

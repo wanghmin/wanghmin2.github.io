@@ -1,5 +1,5 @@
 ---
-title: Animating bubble interactions in a liquid foam
+title: Animating Bubble Interactions in a Liquid Foam
 authors:
 - Oleksiy Busaryev
 - Tamal K. Dey

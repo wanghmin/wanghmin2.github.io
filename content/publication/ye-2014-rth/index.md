@@ -30,8 +30,8 @@ url_video: https://drive.google.com/file/d/1gWIPoSI9-PX43baENKHkicfgd2H1aSAc/vie
 ---
 
 <p align="center">
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/X_9A7CmXS14?si=IQKBhfIuGnxWANOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/X_9A7CmXS14?si=IQKBhfIuGnxWANOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 <p align="center">
-<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=767769850&bvid=BV1nr4y1s7eo&cid=563664082&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" autoplay=0> </iframe>
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=767769850&bvid=BV1nr4y1s7eo&cid=563664082&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox> </iframe>
 </p>

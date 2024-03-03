@@ -1,5 +1,5 @@
 ---
-title: Example-based wrinkle synthesis for clothing animation
+title: Example-Based Wrinkle Synthesis for Clothing Animation
 authors:
 - admin
 - Florian Hecht

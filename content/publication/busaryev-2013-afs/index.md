@@ -1,5 +1,5 @@
 ---
-title: Adaptive fracture simulation of multi-layered thin plates
+title: Adaptive Fracture Simulation of Multi-Layered Thin Plates
 authors:
 - Oleksiy Busaryev
 - Tamal K. Dey

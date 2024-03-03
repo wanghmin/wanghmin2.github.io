@@ -1,5 +1,5 @@
 ---
-title: Simulation guided hair dynamics modeling from video
+title: Simulation Guided Hair Dynamics Modeling from Video
 authors:
 - Qing Zhang
 - Jing Tong

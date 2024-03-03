@@ -8,7 +8,7 @@ date: '2016-01-01'
 publishDate: '2024-03-03T02:42:26.938077Z'
 publication_types:
 - article-journal
-publication: '*Computer Graphics Forum (Pacific Graphics)*'
+publication: '*Computer Graphics Forum (Pacific Graphics), 35*(7)'
 doi: https://doi.org/10.1111/cgf.13014
 abstract: Abstract Recalculating the subspace basis of a deformable body is a mandatory
   procedure for subspace simulation, after the body gets modified by interactive applications.

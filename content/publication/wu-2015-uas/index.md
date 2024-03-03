@@ -4,12 +4,12 @@ title: A Unified Approach for Subspace Simulation of Deformable Bodies in Multip
 authors:
 - Xiaofeng Wu
 - Rajaditya Mukherjee
-- Huamin Wang
+- admin
 date: '2015-11-01'
 publishDate: '2024-03-03T02:42:26.901447Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH Asia)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH Asia), 34*(6)'
 doi: 10.1145/2816795.2818065
 abstract: Multi-domain subspace simulation can efficiently and conveniently simulate
   the deformation of a large deformable body, by constraining the deformation of each
@@ -26,6 +26,10 @@ abstract: Multi-domain subspace simulation can efficiently and conveniently simu
   using uniform and non-uniform cubature weights. Our experiment shows that the whole
   system can efficiently handle large and complex scenes, many of which cannot be
   easily simulated by previous techniques without limitations.
+summary: 'We present a domain
+  decomposition framework that connects two disjoint domains through coupling elements.
+  Under this framework, we present a unified system that solves subspace
+  deformations and rigid motions of all of the domains by a single linear solve.'
 tags:
 - cubature approximation
 - domain decomposition
@@ -33,6 +37,12 @@ tags:
 - nonlinear elasticity
 - subspace simulation
 links:
-- name: URL
-  url: https://doi.org/10.1145/2816795.2818065
+url_video: https://drive.google.com/file/d/1DVhY-O05Goup4TYZfcUDo_kKvSDZ1ozI/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/9zzbeAR0i_8?si=O7vLFWnTgIHGK85T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=212813695&bvid=BV1ha41147Qs&cid=563649196&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

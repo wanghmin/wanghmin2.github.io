@@ -1,5 +1,5 @@
 ---
-title: Physically guided liquid surface modeling from videos
+title: Physically Guided Liquid Surface Modeling from Videos
 authors:
 - admin
 - Miao Liao

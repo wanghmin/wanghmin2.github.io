@@ -3,7 +3,7 @@ title: Real-Time Human Pose and Shape Estimation for Virtual Try-on Using a Sing
   Commodity Depth Camera
 authors:
 - Mao Ye
-- Huamin Wang
+- admin
 - Nianchen Deng
 - Xubo Yang
 - Ruigang Yang
@@ -11,7 +11,7 @@ date: '2014-04-01'
 publishDate: '2024-03-03T02:42:26.846141Z'
 publication_types:
 - article-journal
-publication: '*IEEE transactions on visualization and computer graphics (IEEE VR)*'
+publication: '*IEEE transactions on visualization and computer graphics (IEEE VR), 20*(4)'
 doi: 10.1109/tvcg.2014.35
 abstract: We present a system that allows the user to virtually try on new clothes.
   It uses a single commodity depth camera to capture the user in 3D. Both the pose
@@ -23,7 +23,10 @@ abstract: We present a system that allows the user to virtually try on new cloth
   Our solution is to incorporate automatic shape adaptation and novel constraints
   in pose tracking. The effectiveness of our system is demonstrated with a number
   of examples.
+summary: 'We present a system that allows the user to virtually try on new clothes.
+  It uses a single commodity depth camera to capture the user in 3D.'
 links:
-- name: URL
-  url: https://doi.org/10.1109/TVCG.2014.35
+url_video: https://drive.google.com/file/d/1gWIPoSI9-PX43baENKHkicfgd2H1aSAc/view
 ---
+
+

@@ -41,7 +41,7 @@ tags:
 - inexact methods
 links:
 url_video: https://drive.google.com/file/d/1IV2SCHFa6hsL9pu_6vYMaZngNRMU9H0j/view
-url_dataset: publication/water-2018-rfs/Wang-2018-RFS.zip
+url_dataset: publication/wang-2018-rfs/Wang-2018-RFS.zip
 ---
 
 <p align="center">

@@ -3,12 +3,12 @@ title: Interactive Two-Way Shape Design of Elastic Bodies
 authors:
 - Rajaditya Mukherjee
 - Longhua Wu
-- Huamin Wang
+- admin
 date: '2018-07-01'
 publishDate: '2024-03-03T02:42:26.967370Z'
 publication_types:
 - article-journal
-publication: '*Proc. ACM Comput. Graph. Interact. Tech. (I3D)*'
+publication: '*Proc. ACM Comput. Graph. Interact. Tech. (I3D), 1*(1)'
 doi: 10.1145/3203196
 abstract: We present a novel system for interactive elastic shape design in both forward
   and inverse fashions. Using this system, the user can choose to edit the rest shape
@@ -29,6 +29,9 @@ abstract: We present a novel system for interactive elastic shape design in both
   to use in both forward and inverse elastic shape design. It can handle a variety
   of nonlinear elastic material models, and its runtime performance has space for
   more improvement.
+summary: We present a system for interactive elastic shape design in both forward
+  and inverse fashions. Using it, a user can edit the rest shape or the quasistatic
+  shape of an elastic solid, and obtain the other shape at the same time. 
 tags:
 - quasistatic simulation
 - Newton's method
@@ -36,6 +39,12 @@ tags:
 - hyperelasticity
 - heterogeneous structure
 links:
-- name: URL
-  url: https://doi.org/10.1145/3203196
+url_video: https://drive.google.com/file/d/1xS_j8ay82VHpJRcGPxAMWkjlFmbYMfQv/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/oBMdngBdCMg?si=AA5633uPiyADkGqa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=382788158&bvid=BV1zZ4y1m7kX&cid=563614287&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

@@ -32,6 +32,7 @@ tags:
 - Physically based modeling
 links:
 url_video: https://drive.google.com/file/d/1jVo9ByTC5xFEkEazIwPpM6dUeGvYd5Mc/view
+url_slides: publication/dey-2015-apm/Dey-2015-APM.pptx
 ---
 
 <p align="center">

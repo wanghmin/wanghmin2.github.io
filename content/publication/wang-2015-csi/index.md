@@ -33,6 +33,7 @@ tags:
 - projective dynamics
 links:
 url_video: https://drive.google.com/file/d/1t1aqH57aIkIOULztcbytl70NzuS0AMDj/view
+url_code: publication/wang-2015-csi/Wang-2015-CSI.zip
 ---
 
 <p align="center">

@@ -1,12 +1,12 @@
 ---
 title: Rule-Free Sewing Pattern Adjustment with Precision and Efficiency
 authors:
-- Huamin Wang
+- admin
 date: '2018-07-01'
 publishDate: '2024-03-03T02:42:27.003755Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 37*(4)'
 doi: 10.1145/3197517.3201320
 abstract: 'Being able to customize sewing patterns for different human bodies without
   using any pre-defined adjustment rule will not only improve the realism of virtual
@@ -30,6 +30,9 @@ abstract: 'Being able to customize sewing patterns for different human bodies wi
   While our current system still needs to overcome certain limitations, we believe
   it is a crucial step toward fully automatic pattern design and adjustment in the
   future.'
+summary: 'We propose to solve sewing pattern adjustment as a nonlinear
+  optimization problem immediately, so as to minimize the objective function
+  that evaluates the fitting quality of the garment sewn from a pattern.'
 tags:
 - sewing pattern
 - quasistatic simulation
@@ -37,6 +40,12 @@ tags:
 - made-to-measure
 - inexact methods
 links:
-- name: URL
-  url: https://doi.org/10.1145/3197517.3201320
+url_video: https://drive.google.com/file/d/1IV2SCHFa6hsL9pu_6vYMaZngNRMU9H0j/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/U42I-u3wWmk?si=gMtyhqYmo_J41w0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=467765922&bvid=BV115411S7Zf&cid=563649327&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

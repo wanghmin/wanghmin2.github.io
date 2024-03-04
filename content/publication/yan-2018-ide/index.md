@@ -4,12 +4,12 @@ authors:
 - Guowei Yan
 - Wei Li
 - Ruigang Yang
-- Huamin Wang
+- admin
 date: '2018-12-01'
 publishDate: '2024-03-03T02:42:26.996012Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH Asia)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH Asia), 37*(6)'
 doi: 10.1145/3272127.3275021
 abstract: 'Elastic parameter optimization has revealed its importance in 3D modeling,
   virtual reality, and additive manufacturing in recent years. Unfortunately, it is
@@ -30,13 +30,13 @@ abstract: 'Elastic parameter optimization has revealed its importance in 3D mode
   measurement and design applications. Our experiment shows the method is fast, reliable,
   memory-efficient, GPU-friendly, flexible with different elastic models, scalable
   to a large parameter space, and parallelizable for multiple data samples.'
+summary: 'Based on an inexact method for elasticity measurement and design, we
+  study a variety of implementation issues, including backtracking line
+  search, initialization, regularization, and data samples.'
 tags:
 - constrained optimization
 - heterogeneity
 - inexact method
 - nonlinear elasticity
 - quasistatic simulation
-links:
-- name: URL
-  url: https://doi.org/10.1145/3272127.3275021
 ---

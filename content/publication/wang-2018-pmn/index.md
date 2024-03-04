@@ -5,12 +5,12 @@ authors:
 - Longhua Wu
 - Marco Fratarcangeli
 - Min Tang
-- Huamin Wang
+- admin
 date: '2018-10-01'
 publishDate: '2024-03-03T02:42:26.975107Z'
 publication_types:
 - article-journal
-publication: '*Computer Graphics Forum (Pacific Graphics, best paper award)*'
+publication: '*Computer Graphics Forum (Pacific Graphics, best paper award), 37*(7)'
 doi: https://doi.org/10.1111/cgf.13554
 abstract: Accurate high-resolution simulation of cloth is a highly desired
   computational tool in graphics applications. As single-resolution simulation starts
@@ -30,10 +30,19 @@ abstract: Accurate high-resolution simulation of cloth is a highly desired
   The performance of the method has a good scalability to the mesh resolution, and
   the method has good potential to be combined with multi-resolution collision handling
   for real-time simulation in the future.
+summary: We explore nonlinearity, adaptive
+  smoothing, and parallelization under a full multigrid (FMG) framework. The foundation
+  of this research is a novel nonlinear FMG method for unstructured meshes.
 tags:
 - CCS Concepts
 - •Computing methodologies → Physical simulation
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13554
+url_video: https://drive.google.com/file/d/146ZnuGbPZzvqREQzYnIzLfXn4nSZGi13/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/WqWieqEEs_k?si=X2Yn2orbztUCjySr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=980298696&bvid=BV1n44y1P7wU&cid=563649326&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

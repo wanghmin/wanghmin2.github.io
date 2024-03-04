@@ -32,6 +32,8 @@ tags:
 - rounding error
 links:
 url_video: https://drive.google.com/file/d/1_UA9dER8zFA8hTMF4s0AeLZxqy705TSD/view
+url_code: publication/wang-2014-dcc/Wang-2014-DCC.zip
+url_source: publication/wang-2014-dcc/Wang-2014-DCC_supp.pdf
 ---
 
 <p align="center">

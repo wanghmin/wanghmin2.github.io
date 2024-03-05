@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me
+      title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       
@@ -56,8 +56,8 @@ sections:
       view: card
   - block: collection
     content:
-      title: Publications
-      count: 10  
+      title: Recent Publications
+      count: 6  
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -79,7 +79,7 @@ sections:
     content:
       title: Contact     
       # Contact (add or remove contact options as necessary)
-      email: wanghmin 'AT' gmail 'DOT' com
+      email: wanghmin 'at' gmail 'dot' com
       address:
         street: 99 Shuanglong Street
         city: Hangzhou

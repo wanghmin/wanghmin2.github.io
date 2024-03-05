@@ -4,11 +4,11 @@ authors:
 - Xuan Li
 - Yu Fang
 - Lei Lan
-- Huamin Wang
+- admin
 - Yin Yang
 - Minchen Li
 - Chenfanfu Jiang
-date: '2023-01-01'
+date: '2023-12-12'
 publishDate: '2024-03-03T02:42:27.088211Z'
 publication_types:
 - paper-conference
@@ -34,12 +34,21 @@ abstract: We propose an efficient cloth simulation method that combines the meri
   potential without elasticity using Newton-PCG. Our method can be efficiently executed
   on modern GPUs. Experiments show significant performance improvements over existing
   GPU solvers for high-resolution cloth simulation.
+summary: We propose an efficient cloth simulation method that combines the merits
+  of two drastically different numerical procedures, namely the subspace integration
+  and parallelizable iterative relaxation.
 tags:
 - domain decomposition
 - projective dynamics
 - quasi-Newton methods
 - subspace
 links:
-- name: URL
-  url: https://doi.org/10.1145/3610548.3618157
+url_video: https://drive.google.com/file/d/1m8dsocK1x2k4jylOZMrZ_mLOlcR9VZEj/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/32nTfLSGsMU?si=bkzURFGmMsFq-cY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=321096711&bvid=BV1ww411q7xC&cid=1271228451&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

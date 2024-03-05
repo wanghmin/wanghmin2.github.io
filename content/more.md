@@ -1,9 +1,8 @@
 ---
-title: More
+title: Showcase
+description: "Docs websites powered by Hugo Blox."
+type: landing
+
+
+adsf
 ---
-
-Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
-
-
-
-

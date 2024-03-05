@@ -2,7 +2,7 @@
 title: Parallel Iterative Solvers for Real-Time Elastic Deformations
 authors:
 - Marco Fratarcangeli
-- Huamin Wang
+- admin
 - Yin Yang
 date: '2018-01-01'
 publishDate: '2024-03-05T08:24:07.661854Z'
@@ -28,6 +28,9 @@ abstract: Physics-based animation of elastic materials allows to simulate dynami
   accuracy, robustness and performance. Practical examples are provided throughout
   the course, in particular how to apply the depicted solvers to Projective Dynamics
   and Position-based Dynamics, two recent and popular physics models for elastic materials.
+summary: This course introduces students and practitioners
+  to several parallel iterative techniques to tackle Physics-based animation of elastic materials and achieve elastic
+  deformations in real-time.
 tags:
 - GPU acceleration
 - Jacobi method
@@ -38,7 +41,4 @@ tags:
 - parallel computing
 - position based dynamics
 - projective dynamics
-links:
-- name: URL
-  url: https://doi.org/10.1145/3277644.3277779
 ---

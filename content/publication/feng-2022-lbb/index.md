@@ -4,12 +4,12 @@ authors:
 - Xudong Feng
 - Wenchao Huang
 - Weiwei Xu
-- Huamin Wang
+- admin
 date: '2022-11-01'
 publishDate: '2024-03-03T02:42:27.058210Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH Asia)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH Asia), 41*(6)'
 doi: 10.1145/3550454.3555464
 abstract: 'Real-world fabrics often possess complicated nonlinear, anisotropic bending
   stiffness properties. Measuring the physical parameters of such properties for physics-based
@@ -31,6 +31,9 @@ abstract: 'Real-world fabrics often possess complicated nonlinear, anisotropic b
   for quick, reliable and effective estimation of simulation-ready parameters. Thanks
   to the use of the system, our simulator can now faithfully simulate bending effects
   comparable to those in the real world.'
+summary: 'In this work, we propose to adopt a simulation-in-the-loop strategy for
+  fabric parameter estimation and we train a regression-based neural network for
+  inferring bending stiffness parameters from Cusick drap tests.'
 tags:
 - parameter estimation
 - material property acquisition
@@ -38,6 +41,13 @@ tags:
 - cloth simulation
 - bending stiffness
 links:
-- name: URL
-  url: https://doi.org/10.1145/3550454.3555464
+url_video: https://drive.google.com/file/d/14NIYA-CXXxU7EdiQnk70hSJN5lsqRW13/view
+url_code: https://github.com/DrapeTester/ClothDrapeTester
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/4PfgBnVCeNY?si=3yeD4T3uPQ001ZxL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=858160039&bvid=BV1eV4y1M7Yr&cid=837387296&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

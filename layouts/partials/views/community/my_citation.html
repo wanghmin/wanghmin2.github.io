@@ -28,27 +28,13 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<style>
-  .shadow 
-{
-	-moz-box-shadow: 3px 3px 4px #000;
-	-webkit-box-shadow: 3px 3px 4px #000;
-	box-shadow: 3px 3px 4px #000;
-	/* For IE 8 */
-	/*-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";*/
-	/* For IE 5.5 - 7 */
-	/*filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');*/
-}
-</style>
-
 <div class="media stream-item view-compact">
   
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-    </div>
-    
+    </div>    
     
    {{ if eq $item.Type "event" }}
    <div class="article-metadata">
@@ -91,7 +77,7 @@
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            alt="{{ $item.Title }}" loading="lazy" class="shadow">
+            alt="{{ $item.Title }}" loading="lazy">
       </a>
     {{end}}
   </div>

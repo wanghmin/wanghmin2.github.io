@@ -4,13 +4,13 @@ authors:
 - Lei Lan
 - Minchen Li
 - Chenfanfu Jiang
-- Huamin Wang
+- admin
 - Yin Yang
 date: '2023-07-01'
 publishDate: '2024-03-03T02:42:27.080441Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 42*(4)'
 doi: 10.1145/3592104
 abstract: In this paper, we present a GPU algorithm for finite element hyperelastic
   simulation. We show that the interior-point method, known to be effective for robust
@@ -32,12 +32,21 @@ abstract: In this paper, we present a GPU algorithm for finite element hyperelas
   of up to two orders over its CPU counterpart. We demonstrate the scalability, robustness,
   efficiency, and quality of our algorithm in a variety of simulation scenarios with
   complex and detailed collision geometries.
+summary: We present a GPU algorithm for finite element hyperelastic
+  simulation. We show that the interior-point method can be coupled with non-Newton procedures and be massively
+  sped up on the GPU.
 tags:
 - physics-based simulation
 - interior point method
 - barrier function
 - GPU
 links:
-- name: URL
-  url: https://doi.org/10.1145/3592104
+url_video: https://drive.google.com/file/d/1Pr1cj5EqbMpvpTqx0w-oA-5wh8OvaWhp/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/CqudChzrgQ8?si=Vbt--4xUnz0mCZkR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=871929680&bvid=BV1BV4y1e76k&cid=1271225872&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

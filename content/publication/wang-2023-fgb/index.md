@@ -5,13 +5,13 @@ authors:
 - Jiong Chen
 - Dongping Li
 - Xiaowei Liu
-- Huamin Wang
+- admin
 - Kun Zhou
 date: '2023-07-01'
 publishDate: '2024-03-03T02:42:27.066106Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 42*(5)'
 doi: 10.1145/3604551
 abstract: Step-and-project is a popular method to simulate non-penetrating deformable
   bodies in physically based animation. The strategy is to first integrate the system
@@ -30,12 +30,21 @@ abstract: Step-and-project is a popular method to simulate non-penetrating defor
   cloth, hair, and sand. Experimental results demonstrate the safety, robustness,
   physical fidelity, and numerical efficiency of our method, making it particularly
   suitable for scenarios involving large deformations or large time steps.
+summary: We propose a novel two-way method for fast and reliable continuous
+  collision handling. Our method launches an optimization from both ends of the intermediate
+  time-integrated state and the previous intersection-free state.
 tags:
 - nonlinear optimization
 - GPU computation
 - deformable body simulation
 - Collision handling
 links:
-- name: URL
-  url: https://doi.org/10.1145/3604551
+url_video: https://drive.google.com/file/d/1OHeNDsYlgutLgmr82b8d63hdh8BnqwRE/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/6T52DU2iFu0?si=ehT7BX10SWjWsJyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=229760909&bvid=BV14h411T7xG&cid=1165331205&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

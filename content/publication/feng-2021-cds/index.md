@@ -3,7 +3,7 @@ title: Computational Design of Skinned Quad-Robots
 authors:
 - Xudong Feng
 - Jiafeng Liu
-- Huamin Wang
+- admin
 - Yin Yang
 - Hujun Bao
 - Bernd Bickel

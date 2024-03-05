@@ -22,13 +22,15 @@ organizations:
     url: https://www.linctex.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include physics-based animation, generative AI models, numerical analysis and optimization.
+bio: My research interests include physics-based modeling and animation, generative AI models, numerical analysis and nonlinear optimization.
 
 # Interests to show in About widget
 interests:
   - Physics-Based Animation
+  - Physics-Based Modeling
   - Generative AI models
-  - Numerical Analysis and Optimization
+  - Numerical Analysis
+  - Nonlinear Optimization
 
 # Education to show in About widget
 education:

@@ -1,7 +1,7 @@
 ---
 title: Practical Water Animation using Physics and Image Based Methods
 authors:
-- Huamin Wang
+- admin
 date: '2009-08-01'
 publishDate: '2024-03-05T08:24:07.669966Z'
 publication: '*Georgia Institute of Technology - Theses and Dissertations*'

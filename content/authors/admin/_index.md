@@ -37,7 +37,6 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Georgia Institute of Technology
-      advisor: Greg Turk
       year: 2009
     - course: MS in Computer Science
       institution: Stanford University

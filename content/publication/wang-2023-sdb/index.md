@@ -4,12 +4,12 @@ title: Stable Discrete Bending by Analytic Eigensystem and Adaptive Orthotropic 
 authors:
 - Zhendong Wang
 - Yin Yang
-- Huamin Wang
+- admin
 date: '2023-12-01'
 publishDate: '2024-03-03T02:42:27.096003Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH Asia)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH Asia), 42*(6)'
 doi: 10.1145/3618372
 abstract: In this paper, we address two limitations of dihedral angle based discrete
   bending (DAB) models, i.e. the indefiniteness of their energy Hessian and their
@@ -31,12 +31,21 @@ abstract: In this paper, we address two limitations of dihedral angle based disc
   caused by large bending forces at degenerate geometries. To demonstrate the benefit
   of our approaches, we show comparisons against existing methods on the simulation
   of cloth and thin plates in challenging examples.
+summary: In this paper, we address two limitations of dihedral angle based discrete
+  bending (DAB) models, i.e. the indefiniteness of their energy Hessian and their
+  vulnerability to geometry degeneracies.
 tags:
 - geometric stiffness
 - eigensystem
 - discrete bending
 - dihedral angle
 links:
-- name: URL
-  url: https://doi.org/10.1145/3618372
+url_video: https://drive.google.com/file/d/1KfusmPps_TDUhepNis2Zcj-KZQkwbp2c/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/R3662SYC4D4?si=nYq27zh7WAexgs8G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=321009762&bvid=BV1iw411i7uy&cid=1271234149&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

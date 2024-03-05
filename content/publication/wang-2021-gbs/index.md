@@ -1,12 +1,12 @@
 ---
 title: GPU-Based Simulation of Cloth Wrinkles at Submillimeter Levels
 authors:
-- Huamin Wang
+- admin
 date: '2021-07-01'
 publishDate: '2024-03-03T02:42:27.042912Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+publication: '*ACM Trans. Graph. (SIGGRAPH), 40*(4)'
 doi: 10.1145/3450626.3459787
 abstract: In this paper, we study physics-based cloth simulation in a very high resolution
   setting, presumably at submillimeter levels with millions of vertices, to meet perceptual
@@ -26,6 +26,9 @@ abstract: In this paper, we study physics-based cloth simulation in a very high 
   multi-resolution solver as an additional component. The experiment demonstrates
   the capability, efficiency and flexibility of our system in producing a variety
   of high-resolution wrinkles effects.
+summary: 'In this paper, we study physics-based cloth simulation in a very high resolution
+  setting, presumably at submillimeter levels with millions of vertices, to meet perceptual
+  precision of our human eyes.'
 tags:
 - GPU acceleration
 - cloth simulation
@@ -33,6 +36,12 @@ tags:
 - parallel computing
 - wrinkle synthesis
 links:
-- name: URL
-  url: https://doi.org/10.1145/3450626.3459787
+url_video: https://drive.google.com/file/d/1iXd3FmlS__CVnOMAAFsU9VHel7FSIV6z/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/g1DBScutcOQ?si=TGlT2T6zr4xLbGWP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?aid=255368167&bvid=BV18Y411773w&cid=563649259&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>

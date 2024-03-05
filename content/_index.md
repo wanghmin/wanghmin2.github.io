@@ -79,11 +79,11 @@ sections:
     content:
       title: Contact     
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: wanghmin 'AT' gmail 'DOT' com
       address:
         street: 99 Shuanglong Street
         city: Hangzhou
-        region: Zhejiang
+        region: Zhejiang, China
         postcode: '310000'
         country: China
         country_code: CN

@@ -1,7 +1,5 @@
 ---
-title: Community
-reading_time: false
-pager: false
+title: More
 ---
 
 ## Support

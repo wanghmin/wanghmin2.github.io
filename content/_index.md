@@ -72,10 +72,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      title: Contact     
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       address:
@@ -91,15 +88,7 @@ sections:
         latitude: '30.2935'
         longitude: '120.0713'      
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      autolink: true      
     design:
       columns: '2'
 ---

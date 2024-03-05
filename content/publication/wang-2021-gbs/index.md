@@ -37,6 +37,8 @@ tags:
 - wrinkle synthesis
 links:
 url_video: https://drive.google.com/file/d/1iXd3FmlS__CVnOMAAFsU9VHel7FSIV6z/view
+url_code: publication/wang-2021-gbs/Wang-2021-GBS.zip
+url_source: publication/wang-2021-gbs/Wang-2021-GBS-supp.zip
 ---
 
 <p align="center">

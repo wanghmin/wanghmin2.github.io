@@ -8,7 +8,7 @@ editable: false
 
 sections:
   
-- block: Features
+- block: collection
     id: solutions
     content:
       items:

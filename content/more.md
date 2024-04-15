@@ -12,6 +12,7 @@ header:
   image: ''
 ---
 
+sections:
 - block: cta-image-paragraph
     id: solutions
     content:

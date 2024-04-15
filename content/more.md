@@ -8,18 +8,15 @@ editable: false
 
 sections:
   
-  - block: cta-image-paragraph
-    id: solutions
+  - block: collection
+    id: featured
     content:
-      items:
-        - title: Mathematics for Computer Graphics
-          text: As easy as 1, 2, 3!
-          # Upload image to `assets/media/` and reference the filename here
-          image: math.png
-          button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      columns: '2'
+      view: card
 ---

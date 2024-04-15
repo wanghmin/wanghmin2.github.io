@@ -1,10 +1,9 @@
 ---
-title: About
-date: '2018-06-28T00:00:00+01:00'
-draft: false
-share: false
-commentable: false
-editable: false
+# Leave the homepage title empty to use the site title
+title: ''
+date: 2022-10-24
+type: landing
+
 
 sections:
   

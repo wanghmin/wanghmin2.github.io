@@ -10,7 +10,7 @@ editable: false
 header:
   caption: ''
   image: ''
----
+
 
 sections:
 - block: cta-image-paragraph
@@ -41,3 +41,5 @@ sections:
           button:
             text: Join Discord
             url: https://discord.gg/z8wNYzb
+
+---

@@ -19,18 +19,6 @@ sections:
           button:
             text: Read more
             url: https://faculty.cc.gatech.edu/~turk/math_gr.html
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
-          feature_icon: bolt
-          features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
-          # Upload image to `assets/media/` and reference the filename here
-          image: math.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

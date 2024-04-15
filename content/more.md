@@ -8,7 +8,7 @@ editable: false
 
 sections:
   
-- block: cta-image-paragraph
+- block: Features
     id: solutions
     content:
       items:

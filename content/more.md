@@ -12,7 +12,7 @@ sections:
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
+        - title: Mathematics for Computer Graphics
           text: As easy as 1, 2, 3!
           # Upload image to `assets/media/` and reference the filename here
           image: math.png

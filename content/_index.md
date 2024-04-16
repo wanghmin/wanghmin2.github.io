@@ -36,7 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: bio.biography
+  - block: about.biography
     id: bio
     content:
       title: Bio

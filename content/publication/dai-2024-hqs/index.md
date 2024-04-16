@@ -7,9 +7,10 @@ authors:
 - Xinguo Liu
 - Huamin Wang
 - Weiwei Xu
-date: '2024-01-01'
+date: '2024-07-28'
 publishDate: '2024-04-16T07:13:03.095700Z'
 publication_types:
 - paper-conference
 publication: '*SIGGRAPH 2024 Conference Papers*'
+summary: (to appear)
 ---

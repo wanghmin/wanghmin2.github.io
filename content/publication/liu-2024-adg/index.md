@@ -4,10 +4,11 @@ authors:
 - Chen Liu
 - Weiwei Xu
 - Yin Yang
-- Huamin Wang
-date: '2024-01-01'
+- admin
+date: '2024-07-28'
 publishDate: '2024-04-16T07:13:03.080309Z'
 publication_types:
 - article-journal
 publication: '*ACM Trans. Graph. (SIGGRAPH)*'
+summary: (To appear in SIGGRAPH 2024)
 ---

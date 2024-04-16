@@ -27,4 +27,4 @@ This course work page is still alive after 20 years.
 Hangzhou, one of China's seven ancient capitals, is renowned for its tea, silk, temples, fine arts, and, above all, [West Lake](https://en.wikipedia.org/wiki/West_Lake). 
 The Venetian [Marco Polo](http://en.wikipedia.org/wiki/Marco_Polo) (1271 - 1368) once referred to the city as "beyond dispute the finest and the noblest in the world".
 
-Since 2011, West Lake has been listed as a [UNESCO World Heritage Site](https://en.wikipedia.org/wiki/World_Heritage_Site) and described as having "influenced garden design in the rest of China as well as Japan and Korea over the centuries" and reflecting "an idealized fusion between humans and nature".
+Since 2011, West Lake has been listed as a [UNESCO World Heritage Site](https://en.wikipedia.org/wiki/World_Heritage_Site) and described as having *influenced garden design in the rest of China as well as Japan and Korea over the centuries* and reflecting *an idealized fusion between humans and nature*.

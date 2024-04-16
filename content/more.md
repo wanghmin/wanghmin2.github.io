@@ -1,5 +1,5 @@
 ---
-title: About
+title: More
 date: 2024-04-16
 share: false
 ---

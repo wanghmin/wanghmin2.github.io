@@ -4,7 +4,7 @@ date: 2024-04-16
 share: false
 ---
 
-![Tux, the Linux mascot](/assets/media/math.png)
+![Tux, the Linux mascot](math.png)
 
 ## [Mathematics for Computer Graphics](https://faculty.cc.gatech.edu/~turk/math_gr.html)
 

@@ -5,7 +5,6 @@ share: false
 ---
 
 ![Tux, the Linux mascot](math.png)
-
 ## [Mathematics for Computer Graphics](https://faculty.cc.gatech.edu/~turk/math_gr.html)
 
 *What math should I learn in order to study computer graphics?* This is perhaps the most common general question that students ask about computer graphics. 

@@ -28,7 +28,7 @@ bio: My research interests include physics-based modeling and animation, generat
 interests:
   - Physics-Based Animation
   - Physics-Based Modeling
-  - Generative AI models
+  - Generative AI Models
   - Numerical Analysis
   - Nonlinear Optimization
 

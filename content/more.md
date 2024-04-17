@@ -10,7 +10,8 @@ share: false
 *What math should I learn in order to study computer graphics?* This is perhaps the most common general question that students ask about computer graphics. 
 
 My Ph.D. advisor [Greg Turk](https://faculty.cc.gatech.edu/~turk/) wrote an interesting article on this topic.
-
+\
+\
 ![math](zju.png)
 ## [The mixed class at Zhejiang University](http://www.cis.umassd.edu/~hxu/alink/jclass/mixedclass.html)
 

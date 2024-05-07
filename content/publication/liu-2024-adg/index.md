@@ -11,4 +11,6 @@ publication_types:
 - article-journal
 publication: '*ACM Trans. Graph. (SIGGRAPH)*'
 summary: (To appear in SIGGRAPH 2024)
+links:
+url_supplemental: https://drive.google.com/file/d/1jVo9ByTC5xFEkEazIwPpM6dUeGvYd5Mc/view
 ---

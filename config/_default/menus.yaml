@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#bio'
+    url: '#home'
     weight: 10  
   - name: Publications
     url: '#featured'

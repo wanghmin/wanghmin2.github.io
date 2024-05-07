@@ -6,11 +6,14 @@ authors:
 - Yin Yang
 - admin
 date: '2024-07-28'
+doi: ""
 publishDate: '2024-04-16T07:13:03.080309Z'
 publication_types:
 - article-journal
 publication: '*ACM Trans. Graph. (SIGGRAPH)*'
 summary: (To appear in SIGGRAPH 2024)
 links:
-url_supplemental: https://drive.google.com/file/d/1jVo9ByTC5xFEkEazIwPpM6dUeGvYd5Mc/view
+- name: More Video
+  url: http://example.org
+
 ---

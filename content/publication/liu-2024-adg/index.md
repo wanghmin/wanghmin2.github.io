@@ -20,9 +20,3 @@ url_video: https://drive.google.com/file/d/1Wd12MOPx5vOuInssPfniV1a1y_KlgZgG/vie
 
 ---
 
-<p align="center">
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/v59XExb1fOU?si=vIVxCpQWdSmkVYfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p align="center">
-<iframe width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=112692090114031&bvid=BV1tp3WevEpb&cid=500001598414240&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</p>

@@ -19,6 +19,9 @@ publication_types:
 - paper-conference
 publication: '*SIGGRAPH 2024 Conference Papers*'
 summary: (To appear in SIGGRAPH 2024)
+links:
+- name: Page
+  url: https://yingjiang96.github.io/VR-GS/  
 ---
 
 <p align="center">

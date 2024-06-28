@@ -14,6 +14,7 @@ publication_types:
 publication: '*ACM Trans. Graph. (SIGGRAPH)*'
 summary: We develop an innovative hybrid system for fast initialization of garment pieces with minimal user intervention, by harnessing AI classification, heuristics, and numerical optimization.
 links:
+url_video: https://drive.google.com/file/d/1Wd12MOPx5vOuInssPfniV1a1y_KlgZgG/view
 - name: More Video
   url: LIU-2024-ADG_supp.mp4
 

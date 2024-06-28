@@ -11,7 +11,8 @@ publishDate: '2024-04-16T07:13:03.089337Z'
 publication_types:
 - paper-conference
 publication: '*SIGGRAPH 2024 Conference Papers*'
-summary: We propose a neural-assisted homogenized constitutive model for simulating yarn-level cloth. This model is trained using collected strain energy datasets and its accuracy is validated through qualitative and quantitative experiments.
+doi: 3641519.3657411
+summary: We propose a neural-assisted homogenized constitutive model for simulating yarn-level cloth. This model is trained using strain energy datasets and is validated through qualitative and quantitative experiments.
 tags:
 - yarn-level Cloth Simulation
 - homogenization

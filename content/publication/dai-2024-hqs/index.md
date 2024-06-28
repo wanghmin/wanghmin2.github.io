@@ -15,6 +15,10 @@ publication_types:
 - paper-conference
 publication: '*SIGGRAPH 2024 Conference Papers*'
 summary: We propose a point-based representation, Gaussian surfels, to combine the advantages of the flexible optimization procedure in 3D Gaussian points and the surface alignment property of surfels.
+tags:
+- 3D surface reconstruction
+- Gaussian surfels
+- depth-normal consistency
 
 url_video: https://drive.google.com/file/d/1tYmuC2GWeTCEEd-pi1gcT08_lRhfqLd3/view?usp=sharing
 ---

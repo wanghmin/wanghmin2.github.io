@@ -16,6 +16,12 @@ summary: We develop an innovative hybrid system for fast initialization of garme
 links:
 - name: More Video
   url: LIU-2024-ADG_supp.mp4
+tags:
+- physics-based cloth simulation
+- numerical optimization
+- digital fashion
+- local minima
+- sewing pattern
 url_video: https://drive.google.com/file/d/1Wd12MOPx5vOuInssPfniV1a1y_KlgZgG/view
 
 ---

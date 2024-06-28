@@ -23,7 +23,7 @@ tags:
 - local minima
 - sewing pattern
 url_video: https://drive.google.com/file/d/1Wd12MOPx5vOuInssPfniV1a1y_KlgZgG/view
-
+url_dataset: https://www.kaggle.com/datasets/style3d/stylexda-multi-modal-benchmark-of-fashion
 ---
 <p align="center">
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/v59XExb1fOU?si=vIVxCpQWdSmkVYfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

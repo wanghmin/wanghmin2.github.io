@@ -13,6 +13,5 @@ publishDate: '2024-10-14T09:55:39.590352Z'
 publication_types:
 - paper-conference
 publication: '*Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems (NeurIPS)*'
-abstract: Bridging the longstanding gap between rendering (computer graphics) and the real
-world remains a significant challenge. Particularly in the realm of fashion, 
+abstract: Bridging the longstanding gap between rendering (computer graphics) 
 ---

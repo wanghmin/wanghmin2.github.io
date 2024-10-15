@@ -24,7 +24,7 @@ abstract: This paper presents volumetric homogenization, a spatially varying hom
   yarn-level material locally at volumetric elements. Assigning a virtual volume of
   a knitting structure enables us to model bending and twisting effects via a simple
   volumepreserving penalty and thus effectively alleviates the material nonlinearity.
-  We employ an adjoint Gauss-Newton formulation[Zehnder et al. 2021] to battle the
+  We employ an adjoint Gauss-Newton formulation [Zehnder et al. 2021] to battle the
   dimensionality challenge of such per-element material optimization. This intuitive
   material model makes the forward simulation GPU-friendly. To this end, our pipeline
   also equips a novel domain-decomposed subspace solver crafted for GPU projective

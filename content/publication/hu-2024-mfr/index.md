@@ -29,6 +29,4 @@ a new dataset named SynFashion, featuring detailed digital high-resolution cloth
 with diverse textures, which will be made public available for rendered fashion
 applications. Extensive experimental results show the superiority and effectiveness
 of our method in rendered-to-real image translation.
-summary: We introduce a novel diffusion-based framework that effectively translates rendered
-images into realistic counterparts, ensuring the preservation of texture details.
 ---

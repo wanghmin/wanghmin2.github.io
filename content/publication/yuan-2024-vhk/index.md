@@ -6,7 +6,7 @@ authors:
 - Lei Lan
 - Yuxing Qiu
 - Cem Yuksel
-- Huamin Wang
+- admin
 - Chenfanfu Jiang
 - Kui Wu
 - Yin Yang
@@ -23,7 +23,7 @@ abstract: This paper presents volumetric homogenization, a spatially varying hom
   complex and non-repetitive. Our method tackles this challenge by homogenizing the
   yarn-level material locally at volumetric elements. Assigning a virtual volume of
   a knitting structure enables us to model bending and twisting effects via a simple
-  volumepreserving penalty and thus effectively alleviates the material nonlinearity.
+  volume-preserving penalty and thus effectively alleviates the material nonlinearity.
   We employ an adjoint Gauss-Newton formulation [Zehnder et al. 2021] to battle the
   dimensionality challenge of such per-element material optimization. This intuitive
   material model makes the forward simulation GPU-friendly. To this end, our pipeline
@@ -38,7 +38,16 @@ tags:
 - homogenization
 - physics-based simulation
 - domain decomposition
+summary: This paper presents volumetric homogenization, a spatially varying homogenization
+  scheme for knitwear simulation.
 links:
-- name: URL
-  url: https://doi.org/10.1145/3687911
+- name: More Video
+  url: Yuan-2024-VHK_supp.mp4
+url_video: https://drive.google.com/file/d/1FK00-Wz4tWeMs_sTf_A2eUjucMgq868k/view?usp=sharing
 ---
+<p align="center">
+<iframe width="100%" height="360" src="https://youtu.be/qgEFIVEPkIc?si=jTywqgC_Id0wc7tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=113309541991697&bvid=BV1dQmnYyEcY&cid=26297434951&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</p>

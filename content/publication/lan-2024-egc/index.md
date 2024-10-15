@@ -44,8 +44,8 @@ summary: This paper pushes the performance of cloth simulation, making the simul
 url_video: https://drive.google.com/file/d/1LF-Gz_vdIMG0kAVSuGiNc7NvGVjJtH9u/view?usp=sharing
 ---
 <p align="center">
-<video width="100%" height="360" src="https://www.youtube.com/embed/2ccqBMkSriA?si=gbCPraHMRBlbRIyz" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/2ccqBMkSriA?si=gbCPraHMRBlbRIyz" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p align="center">
-<video width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=113309592323479&bvid=BV1upmnYvEqS&cid=26297630748&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></video>
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=113309592323479&bvid=BV1upmnYvEqS&cid=26297630748&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </p>

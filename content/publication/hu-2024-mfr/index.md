@@ -12,7 +12,8 @@ date: '2024-12-10'
 publishDate: '2024-10-14T09:55:39.590352Z'
 publication_types:
 - paper-conference
-publication: '*Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems (NeurIPS)*'
+publication: '*Advances in Neural Information Processing Systems 38: Annual Conference on
+ Neural Information Processing Systems (NeurIPS)*'
 summary: We introduce a novel diffusion-based framework that effectively translates rendered
 images into realistic counterparts, ensuring the preservation of texture details. 
 ---

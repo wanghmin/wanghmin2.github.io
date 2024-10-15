@@ -2,10 +2,10 @@
 title: Neural-Assisted Homogenization of Yarn-Level Cloth
 authors:
 - Xudong Feng
-- Huamin Wang
+- admin
 - Yin Yang
 - Weiwei Xu
-date: '2024-01-01'
+date: '2024-07-28'
 publishDate: '2024-10-14T09:55:39.543689Z'
 publication_types:
 - paper-conference
@@ -29,7 +29,13 @@ tags:
 - Homogenization
 - Neural Networks
 - Yarn-level Cloth Simulation
+summary: We propose a neural-assisted homogenized constitutive model for simulating yarn-level cloth. This model is trained using strain energy datasets and is validated through qualitative and quantitative experiments.
 links:
-- name: URL
-  url: https://doi.org/10.1145/3641519.3657411
+url_video: https://drive.google.com/file/d/1__vgkrNMtGvgjwJ_myhpmfgjlVvZFK3l/view
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/s5fVtxWY7Rw?si=Yhjf2VOQRXFITlWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=112692241105566&bvid=BV1my3pehEgk&cid=500001598444132&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</p>

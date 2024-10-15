@@ -29,6 +29,6 @@ abstract: 'Bridging the longstanding gap between rendering (computer graphics) a
   with diverse textures, which will be made public available for rendered fashion
   applications. Extensive experimental results show the superiority and effectiveness
   of our method in rendered-to-real image translation.'
-summary: we introduce a novel diffusion-based framework that effectively translates rendered
+summary: We introduce a novel diffusion-based framework that effectively translates rendered
   images into realistic counterparts, ensuring the preservation of texture details.
 ---

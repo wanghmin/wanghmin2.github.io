@@ -38,7 +38,10 @@ tags:
 - material point method
 - optimization time integration
 - time splitting
-links:
-- name: URL
-  url: https://doi.org/10.1145/3641519.3657449
+summary: We present a novel method to couple Finite Element Methods (FEM),
+  typically employed for modeling flesh, cloth, hair, and rigid bodies, with Material Point Methods (MPM), which are well-suited for simulating
+  Newtonian/non-Newtonian fluid, granular materials, and fracturing materials.
 ---
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/qSDfoOZwFpo?si=dTLF9skuZqFo5163" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>

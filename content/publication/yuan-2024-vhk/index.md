@@ -46,7 +46,7 @@ links:
 url_video: https://drive.google.com/file/d/1FK00-Wz4tWeMs_sTf_A2eUjucMgq868k/view?usp=sharing
 ---
 <p align="center">
-<iframe width="100%" height="360" src="https://youtu.be/qgEFIVEPkIc?si=jTywqgC_Id0wc7tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/qgEFIVEPkIc?si=THx1QH8hbZUh_K12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p align="center">
 <iframe width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=113309541991697&bvid=BV1dQmnYyEcY&cid=26297434951&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

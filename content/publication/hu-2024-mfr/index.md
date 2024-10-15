@@ -13,7 +13,7 @@ publishDate: '2024-10-14T09:55:39.590352Z'
 publication_types:
 - paper-conference
 publication: '*Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems (NeurIPS)*'
-abstract: Bridging the longstanding gap between rendering (computer graphics) and the real
+abstract: 'Bridging the longstanding gap between rendering (computer graphics) and the real
   world remains a significant challenge. Particularly in the realm of fashion, existing
   methods still struggle to produce realistic and consistent results. In this paper, we
   introduce a novel diffusion-based framework that effectively translates rendered
@@ -28,5 +28,5 @@ abstract: Bridging the longstanding gap between rendering (computer graphics) an
   a new dataset named SynFashion, featuring detailed digital high-resolution clothing
   with diverse textures, which will be made public available for rendered fashion
   applications. Extensive experimental results show the superiority and effectiveness
-  of our method in rendered-to-real image translation.
+  of our method in rendered-to-real image translation.'
 ---

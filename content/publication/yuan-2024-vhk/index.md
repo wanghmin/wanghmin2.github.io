@@ -1,5 +1,5 @@
 ---
-title: Efficient GPU Cloth Simulation with Non-distance Barriers and Subspace Reuse
+title: Volumetric Homogenization for Knitwear Simulation
 authors:
 - Chun Yuan
 - Haoyang Shi

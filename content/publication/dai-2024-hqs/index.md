@@ -5,9 +5,9 @@ authors:
 - Jiamin Xu
 - Wenxiang Xie
 - Xinguo Liu
-- Huamin Wang
+- admin
 - Weiwei Xu
-date: '2024-01-01'
+date: '2024-07-28'
 publishDate: '2024-10-14T09:55:39.533188Z'
 publication_types:
 - paper-conference
@@ -33,7 +33,14 @@ tags:
 - 3D Surface Reconstruction
 - Depth-normal Consistency
 - Gaussian Surfels
+summary: We propose a point-based representation, Gaussian surfels, to combine the advantages of the flexible optimization procedure in 3D Gaussian points and the surface alignment property of surfels.
 links:
-- name: URL
-  url: https://doi.org/10.1145/3641519.3657441
+url_video: https://drive.google.com/file/d/1tYmuC2GWeTCEEd-pi1gcT08_lRhfqLd3/view?usp=sharing
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/sXZP8LZ84Vg?si=Hh-Z_ia713u7AFSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p align="center">
+<iframe width="100%" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=112692341771073&bvid=BV1iK3WejEqK&cid=500001598465378&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</p>

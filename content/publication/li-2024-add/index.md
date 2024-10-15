@@ -4,7 +4,7 @@ authors:
 - Xuan Li
 - Minchen Li
 - Xuchen Han
-- Huamin Wang
+- admin
 - Yin Yang
 - Chenfanfu Jiang
 date: '2024-01-01'

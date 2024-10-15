@@ -7,13 +7,13 @@ authors:
 - Tianyi Xie
 - Xuan Li
 - Yutao Feng
-- Huamin Wang
+- admin
 - Minchen Li
 - Henry Lau
 - Feng Gao
 - Yin Yang
 - Chenfanfu Jiang
-date: '2024-01-01'
+date: '2024-07-28'
 publishDate: '2024-10-14T09:55:39.551205Z'
 publication_types:
 - paper-conference
@@ -38,7 +38,12 @@ tags:
 - Gaussian Splatting
 - Neural Radiance Fields
 - Real-Time Interactions
+summary: We present a human-centered 3D content interaction system called VR-GS. VR-GS ensures real-time execution with highly realistic dynamic responses.
 links:
-- name: URL
-  url: https://doi.org/10.1145/3641519.3657448
+- name: Page
+  url: https://yingjiang96.github.io/VR-GS/  
 ---
+
+<p align="center">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/fovZlYSMhAI?si=hptCh9SkFcQBJw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>

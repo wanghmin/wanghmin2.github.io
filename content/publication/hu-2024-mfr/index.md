@@ -31,4 +31,8 @@ abstract: 'Bridging the longstanding gap between rendering (computer graphics) a
   of our method in rendered-to-real image translation.'
 summary: We introduce a novel diffusion-based framework that effectively translates rendered
   images into realistic counterparts, ensuring the preservation of texture details.
+
+links:
+- name: Page
+  url: https://rickhh.github.io/FashionR2R/ 
 ---

@@ -35,7 +35,6 @@ abstract: In this paper, we present a GPU algorithm for finite element hyperelas
 summary: We present a GPU algorithm for finite element hyperelastic
   simulation. We show that the interior-point method can be coupled with non-Newton procedures and be massively
   sped up on the GPU.
-featured: true
 tags:
 - physics-based simulation
 - interior point method

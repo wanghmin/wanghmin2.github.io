@@ -7,8 +7,8 @@ authors:
 - Jiedong Zhuang
 - Huang Chen
 - Huafeng Liu
-- Huamin Wang
-date: '2024-01-01'
+- admin
+date: '2024-12-10'
 publishDate: '2024-10-22T08:31:09.743820Z'
 publication_types:
 - paper-conference
@@ -32,4 +32,9 @@ abstract: 'Modeling and producing lifelike clothed human images has attracted re
   Additionally, we introduce SynFashion dataset, featuring high-quality digital clothing
   images with diverse textures. Extensive experimental results demonstrate the superiority
   and effectiveness of our method in rendered-to-real image translation.'
+summary: We introduce a novel diffusion-based framework that effectively translates rendered
+  images into realistic counterparts, ensuring the preservation of texture details.
+links:
+- name: Page
+  url: https://rickhh.github.io/FashionR2R/ 
 ---

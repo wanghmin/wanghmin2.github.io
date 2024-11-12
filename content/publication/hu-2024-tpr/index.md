@@ -1,5 +1,5 @@
 ---
-title: 'FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion
+title: 'FashionR2R: Texture-Preserving Rendered-to-Real Image Translation with Diffusion
   Models'
 authors:
 - Rui Hu

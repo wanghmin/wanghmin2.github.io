@@ -1,5 +1,5 @@
 ---
-title: Efficient GPU Cloth Simulation with Non-distance Barriers and Subspace Reuse
+title: Efficient GPU Cloth Simulation with Non-Distance Barriers and Subspace Reuse
 authors:
 - Lei Lan
 - Zixuan Lu

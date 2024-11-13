@@ -27,7 +27,7 @@ abstract: Real-time simulation of hyperelastic membranes like cloth still faces 
   Putting the global and local solves together, experiments show that our method is
   robust and efficient in simulating complex models of membranes involving hyperelastic
   materials and contact.
-summary: We propose projective peridynamics that uses a local-global strategy to enable
+summary: In this paper, we propose projective peridynamics that uses a local-global strategy to enable
   fast and robust simulation of hyperelastic membranes with contact.
 tags:
 - mathematical models

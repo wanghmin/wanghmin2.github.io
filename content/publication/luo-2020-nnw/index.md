@@ -3,16 +3,16 @@ title: 'NNWarp: Neural Network-Based Nonlinear Deformation'
 authors:
 - Ran Luo
 - Tianjia Shao
-- Huamin Wang
+- admin
 - Weiwei Xu
 - Xiang Chen
 - Kun Zhou
 - Yin Yang
-date: '2020-01-01'
+date: '2020-04-01'
 publishDate: '2024-11-13T06:03:43.086956Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Visualization and Computer Graphics*'
+publication: '*IEEE Transactions on Visualization and Computer Graphics, 26*(4)'
 doi: 10.1109/TVCG.2018.2881451
 abstract: NNWarp is a highly re-usable and efficient neural network (NN) based nonlinear
   deformable simulation framework. Unlike other machine learning applications such
@@ -34,8 +34,11 @@ abstract: NNWarp is a highly re-usable and efficient neural network (NN) based n
   system matrix, the underlying simulator only needs to perform one pre-factorized
   matrix solve at each time step, which allows NNWarp to simulate large models in
   real time.
+summary: We propose NNWarp, a highly re-usable and efficient neural network (NN) based nonlinear
+  deformable simulation framework.
 tags:
 - Artificial neural networks;Deformable models;Strain;Computational modeling;Animation;Elasticity;Neural
   network;machine learning;data-driven animation;nonlinear regression;deformable model;physics-based
   simulation
+url_code: https://github.com/lrquad/NNWarp
 ---

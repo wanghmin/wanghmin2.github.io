@@ -5,12 +5,12 @@ authors:
 - Xiaowei He
 - Yuzhong Guo
 - Xuehui Liu
-- Huamin Wang
-date: '2023-01-01'
+- admin
+date: '2024-08-01'
 publishDate: '2024-11-13T06:03:43.097225Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Visualization and Computer Graphics*'
+publication: '*IEEE Transactions on Visualization and Computer Graphics, 30*(8)'
 doi: 10.1109/TVCG.2023.3271511
 abstract: Real-time simulation of hyperelastic membranes like cloth still faces a
   lot of challenges, such as hyperplasticity modeling and contact handling. In this
@@ -39,4 +39,6 @@ tags:
 - hyperelastic membranes
 - projective peridynamics
 - semi -implicit successive substitution method (SISSM)
+url_code: https://github.com/peridyno/peridyno/tree/master/src/Dynamics/Cuda/Peridynamics
+
 ---

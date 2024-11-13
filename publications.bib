@@ -1,0 +1,24 @@
+@article{Luo:2020:NNW,
+  author={Luo, Ran and Shao, Tianjia and Wang, Huamin and Xu, Weiwei and Chen, Xiang and Zhou, Kun and Yang, Yin},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={NNWarp: Neural Network-Based Nonlinear Deformation}, 
+  year={2020},
+  volume={26},
+  number={4},
+  pages={1745-1759},
+  keywords={Artificial neural networks;Deformable models;Strain;Computational modeling;Animation;Elasticity;Neural network;machine learning;data-driven animation;nonlinear regression;deformable model;physics-based simulation},
+  abstract={NNWarp is a highly re-usable and efficient neural network (NN) based nonlinear deformable simulation framework. Unlike other machine learning applications such as image recognition, where different inputs have a uniform and consistent format (e.g., an array of all the pixels in an image), the input for deformable simulation is quite variable, high-dimensional, and parametrization-unfriendly. Consequently, even though the neural network is known for its rich expressivity of nonlinear functions, directly using an NN to reconstruct the force-displacement relation for general deformable simulation is nearly impossible. NNWarp obviates this difficulty by partially restoring the force-displacement relation via warping the nodal displacement simulated using a simplistic constitutive model-the linear elasticity. In other words, NNWarp yields an incremental displacement fix per mesh node based on a simplified (therefore incorrect) simulation result other than synthesizing the unknown displacement directly. We introduce a compact yet effective feature vector including geodesic, potential and digression to sort training pairs of per-node linear and nonlinear displacement. NNWarp is robust under different model shapes and tessellations. With the assistance of deformation substructuring, one NN training is able to handle a wide range of 3D models of various geometries. Thanks to the linear elasticity and its constant system matrix, the underlying simulator only needs to perform one pre-factorized matrix solve at each time step, which allows NNWarp to simulate large models in real time.},
+  doi={10.1109/TVCG.2018.2881451}}
+
+@article{Lu:2024:PPM,
+ abstract = {Real-time simulation of hyperelastic membranes like cloth still faces a lot of challenges, such as hyperplasticity modeling and contact handling. In this study, we propose projective peridynamics that uses a local-global strategy to enable fast and robust simulation of hyperelastic membranes with contact. In the global step, we propose a semi-implicit strategy to linearize the governing equation for hyperelastic materials that are modeled with peridynamics. By decomposing the first Piola-Kirchhoff stress tensor into a positive and a negative part, successive substitutions can be taken to solve the nonlinear problems. Convergence is guaranteed by further addressing the overshooting problem. Since our global step solve requires no energy summation and dot product operations over the entire problem, it fits into GPU implementation perfectly. In the local step, we further present a GPU-friendly gradient descent method to prevent interpenetration by solving an optimization problem independently. Putting the global and local solves together, experiments show that our method is robust and efficient in simulating complex models of membranes involving hyperelastic materials and contact.}, author = {Lu, Zixuan and He, Xiaowei and Guo, Yuzhong and Liu, Xuehui and Wang, Huamin},
+ doi = {10.1109/TVCG.2023.3271511},
+ journal = {IEEE Transactions on Visualization and Computer Graphics},
+ keywords = {mathematical models, convergence, computational modeling, real-time systems, graphics processing units, deformation, software, contact handling,
+hyperelastic membranes, projective peridynamics, semi -implicit successive substitution method (SISSM)},
+ number = {30},
+ pages = {4601-4614},
+ title = {Projective Peridynamic Modeling of Hyperelastic Membranes With Contact},
+ volume = {8},
+ year = {2023}
+}
